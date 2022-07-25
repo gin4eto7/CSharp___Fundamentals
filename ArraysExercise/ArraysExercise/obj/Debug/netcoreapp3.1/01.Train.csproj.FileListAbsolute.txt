@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\ArraysExercise\ArraysExercise\bin\Debug\netcoreapp3.1\01.Train.exe
+C:\Users\acer\source\repos\ArraysExercise\ArraysExercise\bin\Debug\netcoreapp3.1\01.Train.deps.json
+C:\Users\acer\source\repos\ArraysExercise\ArraysExercise\bin\Debug\netcoreapp3.1\01.Train.runtimeconfig.json
+C:\Users\acer\source\repos\ArraysExercise\ArraysExercise\bin\Debug\netcoreapp3.1\01.Train.runtimeconfig.dev.json
+C:\Users\acer\source\repos\ArraysExercise\ArraysExercise\bin\Debug\netcoreapp3.1\01.Train.dll
+C:\Users\acer\source\repos\ArraysExercise\ArraysExercise\bin\Debug\netcoreapp3.1\01.Train.pdb
+C:\Users\acer\source\repos\ArraysExercise\ArraysExercise\obj\Debug\netcoreapp3.1\01.Train.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\ArraysExercise\ArraysExercise\obj\Debug\netcoreapp3.1\01.Train.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ArraysExercise\ArraysExercise\obj\Debug\netcoreapp3.1\01.Train.AssemblyInfo.cs
+C:\Users\acer\source\repos\ArraysExercise\ArraysExercise\obj\Debug\netcoreapp3.1\01.Train.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ArraysExercise\ArraysExercise\obj\Debug\netcoreapp3.1\01.Train.dll
+C:\Users\acer\source\repos\ArraysExercise\ArraysExercise\obj\Debug\netcoreapp3.1\01.Train.pdb
+C:\Users\acer\source\repos\ArraysExercise\ArraysExercise\obj\Debug\netcoreapp3.1\01.Train.genruntimeconfig.cache

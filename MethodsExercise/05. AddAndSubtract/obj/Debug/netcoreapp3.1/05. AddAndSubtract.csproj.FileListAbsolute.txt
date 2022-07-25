@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\MethodsExercise\05. AddAndSubtract\bin\Debug\netcoreapp3.1\05. AddAndSubtract.exe
+C:\Users\acer\source\repos\MethodsExercise\05. AddAndSubtract\bin\Debug\netcoreapp3.1\05. AddAndSubtract.deps.json
+C:\Users\acer\source\repos\MethodsExercise\05. AddAndSubtract\bin\Debug\netcoreapp3.1\05. AddAndSubtract.runtimeconfig.json
+C:\Users\acer\source\repos\MethodsExercise\05. AddAndSubtract\bin\Debug\netcoreapp3.1\05. AddAndSubtract.runtimeconfig.dev.json
+C:\Users\acer\source\repos\MethodsExercise\05. AddAndSubtract\bin\Debug\netcoreapp3.1\05. AddAndSubtract.dll
+C:\Users\acer\source\repos\MethodsExercise\05. AddAndSubtract\bin\Debug\netcoreapp3.1\05. AddAndSubtract.pdb
+C:\Users\acer\source\repos\MethodsExercise\05. AddAndSubtract\obj\Debug\netcoreapp3.1\05. AddAndSubtract.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\MethodsExercise\05. AddAndSubtract\obj\Debug\netcoreapp3.1\05. AddAndSubtract.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\MethodsExercise\05. AddAndSubtract\obj\Debug\netcoreapp3.1\05. AddAndSubtract.AssemblyInfo.cs
+C:\Users\acer\source\repos\MethodsExercise\05. AddAndSubtract\obj\Debug\netcoreapp3.1\05. AddAndSubtract.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\MethodsExercise\05. AddAndSubtract\obj\Debug\netcoreapp3.1\05. AddAndSubtract.dll
+C:\Users\acer\source\repos\MethodsExercise\05. AddAndSubtract\obj\Debug\netcoreapp3.1\05. AddAndSubtract.pdb
+C:\Users\acer\source\repos\MethodsExercise\05. AddAndSubtract\obj\Debug\netcoreapp3.1\05. AddAndSubtract.genruntimeconfig.cache

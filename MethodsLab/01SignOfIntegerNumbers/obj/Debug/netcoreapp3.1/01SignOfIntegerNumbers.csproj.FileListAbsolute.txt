@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\MethodsLab\01SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01SignOfIntegerNumbers.exe
+C:\Users\acer\source\repos\MethodsLab\01SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01SignOfIntegerNumbers.deps.json
+C:\Users\acer\source\repos\MethodsLab\01SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01SignOfIntegerNumbers.runtimeconfig.json
+C:\Users\acer\source\repos\MethodsLab\01SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01SignOfIntegerNumbers.runtimeconfig.dev.json
+C:\Users\acer\source\repos\MethodsLab\01SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01SignOfIntegerNumbers.dll
+C:\Users\acer\source\repos\MethodsLab\01SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01SignOfIntegerNumbers.pdb
+C:\Users\acer\source\repos\MethodsLab\01SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01SignOfIntegerNumbers.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\MethodsLab\01SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01SignOfIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\MethodsLab\01SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01SignOfIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\MethodsLab\01SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01SignOfIntegerNumbers.AssemblyInfo.cs
+C:\Users\acer\source\repos\MethodsLab\01SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\MethodsLab\01SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01SignOfIntegerNumbers.dll
+C:\Users\acer\source\repos\MethodsLab\01SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01SignOfIntegerNumbers.pdb
+C:\Users\acer\source\repos\MethodsLab\01SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01SignOfIntegerNumbers.genruntimeconfig.cache

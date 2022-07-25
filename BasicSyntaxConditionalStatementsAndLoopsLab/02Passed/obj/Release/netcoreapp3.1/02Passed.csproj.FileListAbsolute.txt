@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\02Passed\bin\Release\netcoreapp3.1\02Passed.exe
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\02Passed\bin\Release\netcoreapp3.1\02Passed.deps.json
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\02Passed\bin\Release\netcoreapp3.1\02Passed.runtimeconfig.json
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\02Passed\bin\Release\netcoreapp3.1\02Passed.runtimeconfig.dev.json
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\02Passed\bin\Release\netcoreapp3.1\02Passed.dll
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\02Passed\bin\Release\netcoreapp3.1\02Passed.pdb
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\02Passed\obj\Release\netcoreapp3.1\02Passed.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\02Passed\obj\Release\netcoreapp3.1\02Passed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\02Passed\obj\Release\netcoreapp3.1\02Passed.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\02Passed\obj\Release\netcoreapp3.1\02Passed.AssemblyInfo.cs
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\02Passed\obj\Release\netcoreapp3.1\02Passed.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\02Passed\obj\Release\netcoreapp3.1\02Passed.dll
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\02Passed\obj\Release\netcoreapp3.1\02Passed.pdb
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\02Passed\obj\Release\netcoreapp3.1\02Passed.genruntimeconfig.cache

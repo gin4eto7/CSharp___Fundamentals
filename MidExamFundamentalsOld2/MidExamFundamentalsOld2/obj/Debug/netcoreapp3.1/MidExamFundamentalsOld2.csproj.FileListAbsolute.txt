@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\MidExamFundamentalsOld2\MidExamFundamentalsOld2\bin\Debug\netcoreapp3.1\MidExamFundamentalsOld2.exe
+C:\Users\acer\source\repos\MidExamFundamentalsOld2\MidExamFundamentalsOld2\bin\Debug\netcoreapp3.1\MidExamFundamentalsOld2.deps.json
+C:\Users\acer\source\repos\MidExamFundamentalsOld2\MidExamFundamentalsOld2\bin\Debug\netcoreapp3.1\MidExamFundamentalsOld2.runtimeconfig.json
+C:\Users\acer\source\repos\MidExamFundamentalsOld2\MidExamFundamentalsOld2\bin\Debug\netcoreapp3.1\MidExamFundamentalsOld2.runtimeconfig.dev.json
+C:\Users\acer\source\repos\MidExamFundamentalsOld2\MidExamFundamentalsOld2\bin\Debug\netcoreapp3.1\MidExamFundamentalsOld2.dll
+C:\Users\acer\source\repos\MidExamFundamentalsOld2\MidExamFundamentalsOld2\bin\Debug\netcoreapp3.1\MidExamFundamentalsOld2.pdb
+C:\Users\acer\source\repos\MidExamFundamentalsOld2\MidExamFundamentalsOld2\obj\Debug\netcoreapp3.1\MidExamFundamentalsOld2.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\MidExamFundamentalsOld2\MidExamFundamentalsOld2\obj\Debug\netcoreapp3.1\MidExamFundamentalsOld2.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\MidExamFundamentalsOld2\MidExamFundamentalsOld2\obj\Debug\netcoreapp3.1\MidExamFundamentalsOld2.AssemblyInfo.cs
+C:\Users\acer\source\repos\MidExamFundamentalsOld2\MidExamFundamentalsOld2\obj\Debug\netcoreapp3.1\MidExamFundamentalsOld2.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\MidExamFundamentalsOld2\MidExamFundamentalsOld2\obj\Debug\netcoreapp3.1\MidExamFundamentalsOld2.dll
+C:\Users\acer\source\repos\MidExamFundamentalsOld2\MidExamFundamentalsOld2\obj\Debug\netcoreapp3.1\MidExamFundamentalsOld2.pdb
+C:\Users\acer\source\repos\MidExamFundamentalsOld2\MidExamFundamentalsOld2\obj\Debug\netcoreapp3.1\MidExamFundamentalsOld2.genruntimeconfig.cache

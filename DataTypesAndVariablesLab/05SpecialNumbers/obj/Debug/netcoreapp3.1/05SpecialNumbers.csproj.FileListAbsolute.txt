@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\05SpecialNumbers\bin\Debug\netcoreapp3.1\05SpecialNumbers.exe
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\05SpecialNumbers\bin\Debug\netcoreapp3.1\05SpecialNumbers.deps.json
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\05SpecialNumbers\bin\Debug\netcoreapp3.1\05SpecialNumbers.runtimeconfig.json
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\05SpecialNumbers\bin\Debug\netcoreapp3.1\05SpecialNumbers.runtimeconfig.dev.json
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\05SpecialNumbers\bin\Debug\netcoreapp3.1\05SpecialNumbers.dll
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\05SpecialNumbers\bin\Debug\netcoreapp3.1\05SpecialNumbers.pdb
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\05SpecialNumbers\obj\Debug\netcoreapp3.1\05SpecialNumbers.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\05SpecialNumbers\obj\Debug\netcoreapp3.1\05SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\05SpecialNumbers\obj\Debug\netcoreapp3.1\05SpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\05SpecialNumbers\obj\Debug\netcoreapp3.1\05SpecialNumbers.AssemblyInfo.cs
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\05SpecialNumbers\obj\Debug\netcoreapp3.1\05SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\05SpecialNumbers\obj\Debug\netcoreapp3.1\05SpecialNumbers.dll
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\05SpecialNumbers\obj\Debug\netcoreapp3.1\05SpecialNumbers.pdb
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\05SpecialNumbers\obj\Debug\netcoreapp3.1\05SpecialNumbers.genruntimeconfig.cache

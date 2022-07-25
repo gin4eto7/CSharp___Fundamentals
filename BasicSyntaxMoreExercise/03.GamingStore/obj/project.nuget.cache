@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ark2ZneOfEW/DT8+o+ZxXFcX7BXj54c8THn1mWjhjtleAdIafFhLB9ZJ2lI8a9NJnAlSDXvzcPUYBrc6V1EUlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acer\\source\\repos\\BasicSyntaxMoreExercise\\03.GamingStore\\03.GamingStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

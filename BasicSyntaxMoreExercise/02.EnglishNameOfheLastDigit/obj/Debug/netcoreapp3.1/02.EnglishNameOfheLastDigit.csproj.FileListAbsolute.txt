@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\BasicSyntaxMoreExercise\02.EnglishNameOfheLastDigit\bin\Debug\netcoreapp3.1\02.EnglishNameOfheLastDigit.exe
+C:\Users\acer\source\repos\BasicSyntaxMoreExercise\02.EnglishNameOfheLastDigit\bin\Debug\netcoreapp3.1\02.EnglishNameOfheLastDigit.deps.json
+C:\Users\acer\source\repos\BasicSyntaxMoreExercise\02.EnglishNameOfheLastDigit\bin\Debug\netcoreapp3.1\02.EnglishNameOfheLastDigit.runtimeconfig.json
+C:\Users\acer\source\repos\BasicSyntaxMoreExercise\02.EnglishNameOfheLastDigit\bin\Debug\netcoreapp3.1\02.EnglishNameOfheLastDigit.runtimeconfig.dev.json
+C:\Users\acer\source\repos\BasicSyntaxMoreExercise\02.EnglishNameOfheLastDigit\bin\Debug\netcoreapp3.1\02.EnglishNameOfheLastDigit.dll
+C:\Users\acer\source\repos\BasicSyntaxMoreExercise\02.EnglishNameOfheLastDigit\bin\Debug\netcoreapp3.1\02.EnglishNameOfheLastDigit.pdb
+C:\Users\acer\source\repos\BasicSyntaxMoreExercise\02.EnglishNameOfheLastDigit\obj\Debug\netcoreapp3.1\02.EnglishNameOfheLastDigit.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\BasicSyntaxMoreExercise\02.EnglishNameOfheLastDigit\obj\Debug\netcoreapp3.1\02.EnglishNameOfheLastDigit.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\BasicSyntaxMoreExercise\02.EnglishNameOfheLastDigit\obj\Debug\netcoreapp3.1\02.EnglishNameOfheLastDigit.AssemblyInfo.cs
+C:\Users\acer\source\repos\BasicSyntaxMoreExercise\02.EnglishNameOfheLastDigit\obj\Debug\netcoreapp3.1\02.EnglishNameOfheLastDigit.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\BasicSyntaxMoreExercise\02.EnglishNameOfheLastDigit\obj\Debug\netcoreapp3.1\02.EnglishNameOfheLastDigit.dll
+C:\Users\acer\source\repos\BasicSyntaxMoreExercise\02.EnglishNameOfheLastDigit\obj\Debug\netcoreapp3.1\02.EnglishNameOfheLastDigit.pdb
+C:\Users\acer\source\repos\BasicSyntaxMoreExercise\02.EnglishNameOfheLastDigit\obj\Debug\netcoreapp3.1\02.EnglishNameOfheLastDigit.genruntimeconfig.cache

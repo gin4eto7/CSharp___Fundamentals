@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\04CenturiesToMinutes\bin\Debug\netcoreapp3.1\04CenturiesToMinutes.exe
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\04CenturiesToMinutes\bin\Debug\netcoreapp3.1\04CenturiesToMinutes.deps.json
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\04CenturiesToMinutes\bin\Debug\netcoreapp3.1\04CenturiesToMinutes.runtimeconfig.json
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\04CenturiesToMinutes\bin\Debug\netcoreapp3.1\04CenturiesToMinutes.runtimeconfig.dev.json
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\04CenturiesToMinutes\bin\Debug\netcoreapp3.1\04CenturiesToMinutes.dll
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\04CenturiesToMinutes\bin\Debug\netcoreapp3.1\04CenturiesToMinutes.pdb
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\04CenturiesToMinutes\obj\Debug\netcoreapp3.1\04CenturiesToMinutes.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\04CenturiesToMinutes\obj\Debug\netcoreapp3.1\04CenturiesToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\04CenturiesToMinutes\obj\Debug\netcoreapp3.1\04CenturiesToMinutes.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\04CenturiesToMinutes\obj\Debug\netcoreapp3.1\04CenturiesToMinutes.AssemblyInfo.cs
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\04CenturiesToMinutes\obj\Debug\netcoreapp3.1\04CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\04CenturiesToMinutes\obj\Debug\netcoreapp3.1\04CenturiesToMinutes.dll
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\04CenturiesToMinutes\obj\Debug\netcoreapp3.1\04CenturiesToMinutes.pdb
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\04CenturiesToMinutes\obj\Debug\netcoreapp3.1\04CenturiesToMinutes.genruntimeconfig.cache

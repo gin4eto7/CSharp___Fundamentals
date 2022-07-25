@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\ExamFund2\03.Nikulden’smeals\bin\Debug\netcoreapp3.1\03.Nikulden’smeals.exe
+C:\Users\acer\source\repos\ExamFund2\03.Nikulden’smeals\bin\Debug\netcoreapp3.1\03.Nikulden’smeals.deps.json
+C:\Users\acer\source\repos\ExamFund2\03.Nikulden’smeals\bin\Debug\netcoreapp3.1\03.Nikulden’smeals.runtimeconfig.json
+C:\Users\acer\source\repos\ExamFund2\03.Nikulden’smeals\bin\Debug\netcoreapp3.1\03.Nikulden’smeals.runtimeconfig.dev.json
+C:\Users\acer\source\repos\ExamFund2\03.Nikulden’smeals\bin\Debug\netcoreapp3.1\03.Nikulden’smeals.dll
+C:\Users\acer\source\repos\ExamFund2\03.Nikulden’smeals\bin\Debug\netcoreapp3.1\03.Nikulden’smeals.pdb
+C:\Users\acer\source\repos\ExamFund2\03.Nikulden’smeals\obj\Debug\netcoreapp3.1\03.Nikulden’smeals.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\ExamFund2\03.Nikulden’smeals\obj\Debug\netcoreapp3.1\03.Nikulden’smeals.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ExamFund2\03.Nikulden’smeals\obj\Debug\netcoreapp3.1\03.Nikulden’smeals.AssemblyInfo.cs
+C:\Users\acer\source\repos\ExamFund2\03.Nikulden’smeals\obj\Debug\netcoreapp3.1\03.Nikulden’smeals.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ExamFund2\03.Nikulden’smeals\obj\Debug\netcoreapp3.1\03.Nikulden’smeals.dll
+C:\Users\acer\source\repos\ExamFund2\03.Nikulden’smeals\obj\Debug\netcoreapp3.1\03.Nikulden’smeals.pdb
+C:\Users\acer\source\repos\ExamFund2\03.Nikulden’smeals\obj\Debug\netcoreapp3.1\03.Nikulden’smeals.genruntimeconfig.cache

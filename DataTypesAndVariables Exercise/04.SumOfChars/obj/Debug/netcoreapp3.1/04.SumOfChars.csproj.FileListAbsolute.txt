@@ -1,0 +1,12 @@
+C:\Users\acer\source\repos\DataTypesAndVariables Exercise\04.SumOfChars\bin\Debug\netcoreapp3.1\04.SumOfChars.exe
+C:\Users\acer\source\repos\DataTypesAndVariables Exercise\04.SumOfChars\bin\Debug\netcoreapp3.1\04.SumOfChars.deps.json
+C:\Users\acer\source\repos\DataTypesAndVariables Exercise\04.SumOfChars\bin\Debug\netcoreapp3.1\04.SumOfChars.runtimeconfig.json
+C:\Users\acer\source\repos\DataTypesAndVariables Exercise\04.SumOfChars\bin\Debug\netcoreapp3.1\04.SumOfChars.runtimeconfig.dev.json
+C:\Users\acer\source\repos\DataTypesAndVariables Exercise\04.SumOfChars\bin\Debug\netcoreapp3.1\04.SumOfChars.dll
+C:\Users\acer\source\repos\DataTypesAndVariables Exercise\04.SumOfChars\bin\Debug\netcoreapp3.1\04.SumOfChars.pdb
+C:\Users\acer\source\repos\DataTypesAndVariables Exercise\04.SumOfChars\obj\Debug\netcoreapp3.1\04.SumOfChars.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\DataTypesAndVariables Exercise\04.SumOfChars\obj\Debug\netcoreapp3.1\04.SumOfChars.AssemblyInfo.cs
+C:\Users\acer\source\repos\DataTypesAndVariables Exercise\04.SumOfChars\obj\Debug\netcoreapp3.1\04.SumOfChars.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\DataTypesAndVariables Exercise\04.SumOfChars\obj\Debug\netcoreapp3.1\04.SumOfChars.dll
+C:\Users\acer\source\repos\DataTypesAndVariables Exercise\04.SumOfChars\obj\Debug\netcoreapp3.1\04.SumOfChars.pdb
+C:\Users\acer\source\repos\DataTypesAndVariables Exercise\04.SumOfChars\obj\Debug\netcoreapp3.1\04.SumOfChars.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\ArraysExercise\02.CommonElements\bin\Debug\netcoreapp3.1\02.CommonElements.exe
+C:\Users\acer\source\repos\ArraysExercise\02.CommonElements\bin\Debug\netcoreapp3.1\02.CommonElements.deps.json
+C:\Users\acer\source\repos\ArraysExercise\02.CommonElements\bin\Debug\netcoreapp3.1\02.CommonElements.runtimeconfig.json
+C:\Users\acer\source\repos\ArraysExercise\02.CommonElements\bin\Debug\netcoreapp3.1\02.CommonElements.runtimeconfig.dev.json
+C:\Users\acer\source\repos\ArraysExercise\02.CommonElements\bin\Debug\netcoreapp3.1\02.CommonElements.dll
+C:\Users\acer\source\repos\ArraysExercise\02.CommonElements\bin\Debug\netcoreapp3.1\02.CommonElements.pdb
+C:\Users\acer\source\repos\ArraysExercise\02.CommonElements\obj\Debug\netcoreapp3.1\02.CommonElements.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ArraysExercise\02.CommonElements\obj\Debug\netcoreapp3.1\02.CommonElements.AssemblyInfo.cs
+C:\Users\acer\source\repos\ArraysExercise\02.CommonElements\obj\Debug\netcoreapp3.1\02.CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ArraysExercise\02.CommonElements\obj\Debug\netcoreapp3.1\02.CommonElements.dll
+C:\Users\acer\source\repos\ArraysExercise\02.CommonElements\obj\Debug\netcoreapp3.1\02.CommonElements.pdb
+C:\Users\acer\source\repos\ArraysExercise\02.CommonElements\obj\Debug\netcoreapp3.1\02.CommonElements.genruntimeconfig.cache
+C:\Users\acer\source\repos\ArraysExercise\02.CommonElements\obj\Debug\netcoreapp3.1\02.CommonElements.csprojAssemblyReference.cache

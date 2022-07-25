@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OeBwtTsL01KokLxQ0+QuEWxrls6sHKrAefV3mKQ//omotSMis9hWZ9H0sK52XtHWi2Gv/YFI6XQ6WqOw3JFvrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acer\\source\\repos\\ArraysExercise\\ArraysExercise\\01.Train.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\MethodsLab\05Orders\bin\Release\netcoreapp3.1\05Orders.exe
+C:\Users\acer\source\repos\MethodsLab\05Orders\bin\Release\netcoreapp3.1\05Orders.deps.json
+C:\Users\acer\source\repos\MethodsLab\05Orders\bin\Release\netcoreapp3.1\05Orders.runtimeconfig.json
+C:\Users\acer\source\repos\MethodsLab\05Orders\bin\Release\netcoreapp3.1\05Orders.runtimeconfig.dev.json
+C:\Users\acer\source\repos\MethodsLab\05Orders\bin\Release\netcoreapp3.1\05Orders.dll
+C:\Users\acer\source\repos\MethodsLab\05Orders\bin\Release\netcoreapp3.1\05Orders.pdb
+C:\Users\acer\source\repos\MethodsLab\05Orders\obj\Release\netcoreapp3.1\05Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\MethodsLab\05Orders\obj\Release\netcoreapp3.1\05Orders.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\MethodsLab\05Orders\obj\Release\netcoreapp3.1\05Orders.AssemblyInfo.cs
+C:\Users\acer\source\repos\MethodsLab\05Orders\obj\Release\netcoreapp3.1\05Orders.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\MethodsLab\05Orders\obj\Release\netcoreapp3.1\05Orders.dll
+C:\Users\acer\source\repos\MethodsLab\05Orders\obj\Release\netcoreapp3.1\05Orders.pdb
+C:\Users\acer\source\repos\MethodsLab\05Orders\obj\Release\netcoreapp3.1\05Orders.genruntimeconfig.cache

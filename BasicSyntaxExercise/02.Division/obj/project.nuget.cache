@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H8jQ3GKQKw5rU1EEHKTBOvCCewari+zv7O5+38a5dlmcH817yuUYqcgm+oQUawyYHhIX4DKX1Ed1lPrXxlKd1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acer\\source\\repos\\BasicSyntaxExercise\\02.Division\\02.Division.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

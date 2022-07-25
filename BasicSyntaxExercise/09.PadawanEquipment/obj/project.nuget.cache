@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mJOXsv0gwUXd5V8bzZXtuGzrY+QVqoPOzaYnu8WxAU7yqg6Krnp8OieQ7KpdhhCqOeQcFNHm2S5uM0drwgStxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acer\\source\\repos\\BasicSyntaxExercise\\09.PadawanEquipment\\09.PadawanEquipment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

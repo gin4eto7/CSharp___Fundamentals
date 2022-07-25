@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\ArraysLab\02PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02PrintNumbersInReverseOrder.exe
+C:\Users\acer\source\repos\ArraysLab\02PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02PrintNumbersInReverseOrder.deps.json
+C:\Users\acer\source\repos\ArraysLab\02PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02PrintNumbersInReverseOrder.runtimeconfig.json
+C:\Users\acer\source\repos\ArraysLab\02PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02PrintNumbersInReverseOrder.runtimeconfig.dev.json
+C:\Users\acer\source\repos\ArraysLab\02PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02PrintNumbersInReverseOrder.dll
+C:\Users\acer\source\repos\ArraysLab\02PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\02PrintNumbersInReverseOrder.pdb
+C:\Users\acer\source\repos\ArraysLab\02PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02PrintNumbersInReverseOrder.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\ArraysLab\02PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02PrintNumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\ArraysLab\02PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ArraysLab\02PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02PrintNumbersInReverseOrder.AssemblyInfo.cs
+C:\Users\acer\source\repos\ArraysLab\02PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ArraysLab\02PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02PrintNumbersInReverseOrder.dll
+C:\Users\acer\source\repos\ArraysLab\02PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02PrintNumbersInReverseOrder.pdb
+C:\Users\acer\source\repos\ArraysLab\02PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\02PrintNumbersInReverseOrder.genruntimeconfig.cache

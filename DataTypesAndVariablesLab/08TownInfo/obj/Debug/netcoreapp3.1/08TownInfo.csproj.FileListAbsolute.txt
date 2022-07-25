@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\08TownInfo\bin\Debug\netcoreapp3.1\08TownInfo.exe
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\08TownInfo\bin\Debug\netcoreapp3.1\08TownInfo.deps.json
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\08TownInfo\bin\Debug\netcoreapp3.1\08TownInfo.runtimeconfig.json
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\08TownInfo\bin\Debug\netcoreapp3.1\08TownInfo.runtimeconfig.dev.json
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\08TownInfo\bin\Debug\netcoreapp3.1\08TownInfo.dll
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\08TownInfo\bin\Debug\netcoreapp3.1\08TownInfo.pdb
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\08TownInfo\obj\Debug\netcoreapp3.1\08TownInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\08TownInfo\obj\Debug\netcoreapp3.1\08TownInfo.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\08TownInfo\obj\Debug\netcoreapp3.1\08TownInfo.AssemblyInfo.cs
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\08TownInfo\obj\Debug\netcoreapp3.1\08TownInfo.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\08TownInfo\obj\Debug\netcoreapp3.1\08TownInfo.dll
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\08TownInfo\obj\Debug\netcoreapp3.1\08TownInfo.pdb
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\08TownInfo\obj\Debug\netcoreapp3.1\08TownInfo.genruntimeconfig.cache

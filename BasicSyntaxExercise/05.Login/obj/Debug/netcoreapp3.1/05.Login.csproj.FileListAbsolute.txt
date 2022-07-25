@@ -1,0 +1,12 @@
+C:\Users\acer\source\repos\BasicSyntaxExercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.exe
+C:\Users\acer\source\repos\BasicSyntaxExercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.deps.json
+C:\Users\acer\source\repos\BasicSyntaxExercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.runtimeconfig.json
+C:\Users\acer\source\repos\BasicSyntaxExercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.runtimeconfig.dev.json
+C:\Users\acer\source\repos\BasicSyntaxExercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.dll
+C:\Users\acer\source\repos\BasicSyntaxExercise\05.Login\bin\Debug\netcoreapp3.1\05.Login.pdb
+C:\Users\acer\source\repos\BasicSyntaxExercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\BasicSyntaxExercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\BasicSyntaxExercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.AssemblyInfo.cs
+C:\Users\acer\source\repos\BasicSyntaxExercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.dll
+C:\Users\acer\source\repos\BasicSyntaxExercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.pdb
+C:\Users\acer\source\repos\BasicSyntaxExercise\05.Login\obj\Debug\netcoreapp3.1\05.Login.genruntimeconfig.cache

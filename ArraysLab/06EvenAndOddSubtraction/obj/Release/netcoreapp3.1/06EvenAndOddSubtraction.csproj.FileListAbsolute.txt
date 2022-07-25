@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\ArraysLab\06EvenAndOddSubtraction\bin\Release\netcoreapp3.1\06EvenAndOddSubtraction.exe
+C:\Users\acer\source\repos\ArraysLab\06EvenAndOddSubtraction\bin\Release\netcoreapp3.1\06EvenAndOddSubtraction.deps.json
+C:\Users\acer\source\repos\ArraysLab\06EvenAndOddSubtraction\bin\Release\netcoreapp3.1\06EvenAndOddSubtraction.runtimeconfig.json
+C:\Users\acer\source\repos\ArraysLab\06EvenAndOddSubtraction\bin\Release\netcoreapp3.1\06EvenAndOddSubtraction.runtimeconfig.dev.json
+C:\Users\acer\source\repos\ArraysLab\06EvenAndOddSubtraction\bin\Release\netcoreapp3.1\06EvenAndOddSubtraction.dll
+C:\Users\acer\source\repos\ArraysLab\06EvenAndOddSubtraction\bin\Release\netcoreapp3.1\06EvenAndOddSubtraction.pdb
+C:\Users\acer\source\repos\ArraysLab\06EvenAndOddSubtraction\obj\Release\netcoreapp3.1\06EvenAndOddSubtraction.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\ArraysLab\06EvenAndOddSubtraction\obj\Release\netcoreapp3.1\06EvenAndOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\ArraysLab\06EvenAndOddSubtraction\obj\Release\netcoreapp3.1\06EvenAndOddSubtraction.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ArraysLab\06EvenAndOddSubtraction\obj\Release\netcoreapp3.1\06EvenAndOddSubtraction.AssemblyInfo.cs
+C:\Users\acer\source\repos\ArraysLab\06EvenAndOddSubtraction\obj\Release\netcoreapp3.1\06EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ArraysLab\06EvenAndOddSubtraction\obj\Release\netcoreapp3.1\06EvenAndOddSubtraction.dll
+C:\Users\acer\source\repos\ArraysLab\06EvenAndOddSubtraction\obj\Release\netcoreapp3.1\06EvenAndOddSubtraction.pdb
+C:\Users\acer\source\repos\ArraysLab\06EvenAndOddSubtraction\obj\Release\netcoreapp3.1\06EvenAndOddSubtraction.genruntimeconfig.cache

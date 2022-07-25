@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\ArraysLab\08CondenseArrayToNumber\bin\Debug\netcoreapp3.1\08CondenseArrayToNumber.exe
+C:\Users\acer\source\repos\ArraysLab\08CondenseArrayToNumber\bin\Debug\netcoreapp3.1\08CondenseArrayToNumber.deps.json
+C:\Users\acer\source\repos\ArraysLab\08CondenseArrayToNumber\bin\Debug\netcoreapp3.1\08CondenseArrayToNumber.runtimeconfig.json
+C:\Users\acer\source\repos\ArraysLab\08CondenseArrayToNumber\bin\Debug\netcoreapp3.1\08CondenseArrayToNumber.runtimeconfig.dev.json
+C:\Users\acer\source\repos\ArraysLab\08CondenseArrayToNumber\bin\Debug\netcoreapp3.1\08CondenseArrayToNumber.dll
+C:\Users\acer\source\repos\ArraysLab\08CondenseArrayToNumber\bin\Debug\netcoreapp3.1\08CondenseArrayToNumber.pdb
+C:\Users\acer\source\repos\ArraysLab\08CondenseArrayToNumber\obj\Debug\netcoreapp3.1\08CondenseArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\ArraysLab\08CondenseArrayToNumber\obj\Debug\netcoreapp3.1\08CondenseArrayToNumber.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ArraysLab\08CondenseArrayToNumber\obj\Debug\netcoreapp3.1\08CondenseArrayToNumber.AssemblyInfo.cs
+C:\Users\acer\source\repos\ArraysLab\08CondenseArrayToNumber\obj\Debug\netcoreapp3.1\08CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ArraysLab\08CondenseArrayToNumber\obj\Debug\netcoreapp3.1\08CondenseArrayToNumber.dll
+C:\Users\acer\source\repos\ArraysLab\08CondenseArrayToNumber\obj\Debug\netcoreapp3.1\08CondenseArrayToNumber.pdb
+C:\Users\acer\source\repos\ArraysLab\08CondenseArrayToNumber\obj\Debug\netcoreapp3.1\08CondenseArrayToNumber.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\Exam2\teo\bin\Debug\netcoreapp3.1\teo.exe
+C:\Users\acer\source\repos\Exam2\teo\bin\Debug\netcoreapp3.1\teo.deps.json
+C:\Users\acer\source\repos\Exam2\teo\bin\Debug\netcoreapp3.1\teo.runtimeconfig.json
+C:\Users\acer\source\repos\Exam2\teo\bin\Debug\netcoreapp3.1\teo.runtimeconfig.dev.json
+C:\Users\acer\source\repos\Exam2\teo\bin\Debug\netcoreapp3.1\teo.dll
+C:\Users\acer\source\repos\Exam2\teo\bin\Debug\netcoreapp3.1\teo.pdb
+C:\Users\acer\source\repos\Exam2\teo\obj\Debug\netcoreapp3.1\teo.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\Exam2\teo\obj\Debug\netcoreapp3.1\teo.AssemblyInfo.cs
+C:\Users\acer\source\repos\Exam2\teo\obj\Debug\netcoreapp3.1\teo.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Exam2\teo\obj\Debug\netcoreapp3.1\teo.dll
+C:\Users\acer\source\repos\Exam2\teo\obj\Debug\netcoreapp3.1\teo.pdb
+C:\Users\acer\source\repos\Exam2\teo\obj\Debug\netcoreapp3.1\teo.genruntimeconfig.cache
+C:\Users\acer\source\repos\Exam2\teo\obj\Debug\netcoreapp3.1\teo.csprojAssemblyReference.cache

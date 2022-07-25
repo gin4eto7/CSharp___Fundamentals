@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\ObjectsAndClassesLab\06StoreBoxes\bin\Debug\netcoreapp3.1\06StoreBoxes.exe
+C:\Users\acer\source\repos\ObjectsAndClassesLab\06StoreBoxes\bin\Debug\netcoreapp3.1\06StoreBoxes.deps.json
+C:\Users\acer\source\repos\ObjectsAndClassesLab\06StoreBoxes\bin\Debug\netcoreapp3.1\06StoreBoxes.runtimeconfig.json
+C:\Users\acer\source\repos\ObjectsAndClassesLab\06StoreBoxes\bin\Debug\netcoreapp3.1\06StoreBoxes.runtimeconfig.dev.json
+C:\Users\acer\source\repos\ObjectsAndClassesLab\06StoreBoxes\bin\Debug\netcoreapp3.1\06StoreBoxes.dll
+C:\Users\acer\source\repos\ObjectsAndClassesLab\06StoreBoxes\bin\Debug\netcoreapp3.1\06StoreBoxes.pdb
+C:\Users\acer\source\repos\ObjectsAndClassesLab\06StoreBoxes\obj\Debug\netcoreapp3.1\06StoreBoxes.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\ObjectsAndClassesLab\06StoreBoxes\obj\Debug\netcoreapp3.1\06StoreBoxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\ObjectsAndClassesLab\06StoreBoxes\obj\Debug\netcoreapp3.1\06StoreBoxes.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ObjectsAndClassesLab\06StoreBoxes\obj\Debug\netcoreapp3.1\06StoreBoxes.AssemblyInfo.cs
+C:\Users\acer\source\repos\ObjectsAndClassesLab\06StoreBoxes\obj\Debug\netcoreapp3.1\06StoreBoxes.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ObjectsAndClassesLab\06StoreBoxes\obj\Debug\netcoreapp3.1\06StoreBoxes.dll
+C:\Users\acer\source\repos\ObjectsAndClassesLab\06StoreBoxes\obj\Debug\netcoreapp3.1\06StoreBoxes.pdb
+C:\Users\acer\source\repos\ObjectsAndClassesLab\06StoreBoxes\obj\Debug\netcoreapp3.1\06StoreBoxes.genruntimeconfig.cache

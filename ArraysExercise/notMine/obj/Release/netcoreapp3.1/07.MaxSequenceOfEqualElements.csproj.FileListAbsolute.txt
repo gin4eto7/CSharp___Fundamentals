@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\ArraysExercise\notMine\bin\Release\netcoreapp3.1\07.MaxSequenceOfEqualElements.exe
+C:\Users\acer\source\repos\ArraysExercise\notMine\bin\Release\netcoreapp3.1\07.MaxSequenceOfEqualElements.deps.json
+C:\Users\acer\source\repos\ArraysExercise\notMine\bin\Release\netcoreapp3.1\07.MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Users\acer\source\repos\ArraysExercise\notMine\bin\Release\netcoreapp3.1\07.MaxSequenceOfEqualElements.runtimeconfig.dev.json
+C:\Users\acer\source\repos\ArraysExercise\notMine\bin\Release\netcoreapp3.1\07.MaxSequenceOfEqualElements.dll
+C:\Users\acer\source\repos\ArraysExercise\notMine\bin\Release\netcoreapp3.1\07.MaxSequenceOfEqualElements.pdb
+C:\Users\acer\source\repos\ArraysExercise\notMine\obj\Release\netcoreapp3.1\07.MaxSequenceOfEqualElements.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\ArraysExercise\notMine\obj\Release\netcoreapp3.1\07.MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ArraysExercise\notMine\obj\Release\netcoreapp3.1\07.MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\acer\source\repos\ArraysExercise\notMine\obj\Release\netcoreapp3.1\07.MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ArraysExercise\notMine\obj\Release\netcoreapp3.1\07.MaxSequenceOfEqualElements.dll
+C:\Users\acer\source\repos\ArraysExercise\notMine\obj\Release\netcoreapp3.1\07.MaxSequenceOfEqualElements.pdb
+C:\Users\acer\source\repos\ArraysExercise\notMine\obj\Release\netcoreapp3.1\07.MaxSequenceOfEqualElements.genruntimeconfig.cache

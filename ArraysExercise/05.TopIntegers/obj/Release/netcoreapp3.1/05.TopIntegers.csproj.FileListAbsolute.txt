@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\ArraysExercise\05.TopIntegers\bin\Release\netcoreapp3.1\05.TopIntegers.exe
+C:\Users\acer\source\repos\ArraysExercise\05.TopIntegers\bin\Release\netcoreapp3.1\05.TopIntegers.deps.json
+C:\Users\acer\source\repos\ArraysExercise\05.TopIntegers\bin\Release\netcoreapp3.1\05.TopIntegers.runtimeconfig.json
+C:\Users\acer\source\repos\ArraysExercise\05.TopIntegers\bin\Release\netcoreapp3.1\05.TopIntegers.runtimeconfig.dev.json
+C:\Users\acer\source\repos\ArraysExercise\05.TopIntegers\bin\Release\netcoreapp3.1\05.TopIntegers.dll
+C:\Users\acer\source\repos\ArraysExercise\05.TopIntegers\bin\Release\netcoreapp3.1\05.TopIntegers.pdb
+C:\Users\acer\source\repos\ArraysExercise\05.TopIntegers\obj\Release\netcoreapp3.1\05.TopIntegers.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\ArraysExercise\05.TopIntegers\obj\Release\netcoreapp3.1\05.TopIntegers.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ArraysExercise\05.TopIntegers\obj\Release\netcoreapp3.1\05.TopIntegers.AssemblyInfo.cs
+C:\Users\acer\source\repos\ArraysExercise\05.TopIntegers\obj\Release\netcoreapp3.1\05.TopIntegers.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ArraysExercise\05.TopIntegers\obj\Release\netcoreapp3.1\05.TopIntegers.dll
+C:\Users\acer\source\repos\ArraysExercise\05.TopIntegers\obj\Release\netcoreapp3.1\05.TopIntegers.pdb
+C:\Users\acer\source\repos\ArraysExercise\05.TopIntegers\obj\Release\netcoreapp3.1\05.TopIntegers.genruntimeconfig.cache

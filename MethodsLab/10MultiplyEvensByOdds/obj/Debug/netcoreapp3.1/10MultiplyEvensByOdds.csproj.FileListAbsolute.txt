@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\MethodsLab\10MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\10MultiplyEvensByOdds.exe
+C:\Users\acer\source\repos\MethodsLab\10MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\10MultiplyEvensByOdds.deps.json
+C:\Users\acer\source\repos\MethodsLab\10MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\10MultiplyEvensByOdds.runtimeconfig.json
+C:\Users\acer\source\repos\MethodsLab\10MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\10MultiplyEvensByOdds.runtimeconfig.dev.json
+C:\Users\acer\source\repos\MethodsLab\10MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\10MultiplyEvensByOdds.dll
+C:\Users\acer\source\repos\MethodsLab\10MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\10MultiplyEvensByOdds.pdb
+C:\Users\acer\source\repos\MethodsLab\10MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10MultiplyEvensByOdds.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\MethodsLab\10MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10MultiplyEvensByOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\MethodsLab\10MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10MultiplyEvensByOdds.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\MethodsLab\10MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10MultiplyEvensByOdds.AssemblyInfo.cs
+C:\Users\acer\source\repos\MethodsLab\10MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\MethodsLab\10MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10MultiplyEvensByOdds.dll
+C:\Users\acer\source\repos\MethodsLab\10MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10MultiplyEvensByOdds.pdb
+C:\Users\acer\source\repos\MethodsLab\10MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10MultiplyEvensByOdds.genruntimeconfig.cache

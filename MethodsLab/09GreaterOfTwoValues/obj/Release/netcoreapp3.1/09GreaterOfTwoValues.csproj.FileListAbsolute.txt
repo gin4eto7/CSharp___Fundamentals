@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\MethodsLab\09GreaterOfTwoValues\bin\Release\netcoreapp3.1\09GreaterOfTwoValues.exe
+C:\Users\acer\source\repos\MethodsLab\09GreaterOfTwoValues\bin\Release\netcoreapp3.1\09GreaterOfTwoValues.deps.json
+C:\Users\acer\source\repos\MethodsLab\09GreaterOfTwoValues\bin\Release\netcoreapp3.1\09GreaterOfTwoValues.runtimeconfig.json
+C:\Users\acer\source\repos\MethodsLab\09GreaterOfTwoValues\bin\Release\netcoreapp3.1\09GreaterOfTwoValues.runtimeconfig.dev.json
+C:\Users\acer\source\repos\MethodsLab\09GreaterOfTwoValues\bin\Release\netcoreapp3.1\09GreaterOfTwoValues.dll
+C:\Users\acer\source\repos\MethodsLab\09GreaterOfTwoValues\bin\Release\netcoreapp3.1\09GreaterOfTwoValues.pdb
+C:\Users\acer\source\repos\MethodsLab\09GreaterOfTwoValues\obj\Release\netcoreapp3.1\09GreaterOfTwoValues.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\MethodsLab\09GreaterOfTwoValues\obj\Release\netcoreapp3.1\09GreaterOfTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\MethodsLab\09GreaterOfTwoValues\obj\Release\netcoreapp3.1\09GreaterOfTwoValues.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\MethodsLab\09GreaterOfTwoValues\obj\Release\netcoreapp3.1\09GreaterOfTwoValues.AssemblyInfo.cs
+C:\Users\acer\source\repos\MethodsLab\09GreaterOfTwoValues\obj\Release\netcoreapp3.1\09GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\MethodsLab\09GreaterOfTwoValues\obj\Release\netcoreapp3.1\09GreaterOfTwoValues.dll
+C:\Users\acer\source\repos\MethodsLab\09GreaterOfTwoValues\obj\Release\netcoreapp3.1\09GreaterOfTwoValues.pdb
+C:\Users\acer\source\repos\MethodsLab\09GreaterOfTwoValues\obj\Release\netcoreapp3.1\09GreaterOfTwoValues.genruntimeconfig.cache

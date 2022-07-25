@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\ListsLab\02GaussTrick\bin\Release\netcoreapp3.1\02GaussTrick.exe
+C:\Users\acer\source\repos\ListsLab\02GaussTrick\bin\Release\netcoreapp3.1\02GaussTrick.deps.json
+C:\Users\acer\source\repos\ListsLab\02GaussTrick\bin\Release\netcoreapp3.1\02GaussTrick.runtimeconfig.json
+C:\Users\acer\source\repos\ListsLab\02GaussTrick\bin\Release\netcoreapp3.1\02GaussTrick.runtimeconfig.dev.json
+C:\Users\acer\source\repos\ListsLab\02GaussTrick\bin\Release\netcoreapp3.1\02GaussTrick.dll
+C:\Users\acer\source\repos\ListsLab\02GaussTrick\bin\Release\netcoreapp3.1\02GaussTrick.pdb
+C:\Users\acer\source\repos\ListsLab\02GaussTrick\obj\Release\netcoreapp3.1\02GaussTrick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\ListsLab\02GaussTrick\obj\Release\netcoreapp3.1\02GaussTrick.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ListsLab\02GaussTrick\obj\Release\netcoreapp3.1\02GaussTrick.AssemblyInfo.cs
+C:\Users\acer\source\repos\ListsLab\02GaussTrick\obj\Release\netcoreapp3.1\02GaussTrick.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ListsLab\02GaussTrick\obj\Release\netcoreapp3.1\02GaussTrick.dll
+C:\Users\acer\source\repos\ListsLab\02GaussTrick\obj\Release\netcoreapp3.1\02GaussTrick.pdb
+C:\Users\acer\source\repos\ListsLab\02GaussTrick\obj\Release\netcoreapp3.1\02GaussTrick.genruntimeconfig.cache

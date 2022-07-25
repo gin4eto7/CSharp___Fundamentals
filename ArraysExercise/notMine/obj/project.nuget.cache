@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gnyb/mc8xdlGXorh0uRfDtQvHl6RsMCSKD3su+6eCKqGrZSblJgSKpQzvUo8qddKFhjN2JeNFlm4RMcPJc2KEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acer\\source\\repos\\ArraysExercise\\notMine\\07.MaxSequenceOfEqualElements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

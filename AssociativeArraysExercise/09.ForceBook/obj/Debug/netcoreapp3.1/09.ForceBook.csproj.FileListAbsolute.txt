@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\AssociativeArraysExercise\09.ForceBook\bin\Debug\netcoreapp3.1\09.ForceBook.exe
+C:\Users\acer\source\repos\AssociativeArraysExercise\09.ForceBook\bin\Debug\netcoreapp3.1\09.ForceBook.deps.json
+C:\Users\acer\source\repos\AssociativeArraysExercise\09.ForceBook\bin\Debug\netcoreapp3.1\09.ForceBook.runtimeconfig.json
+C:\Users\acer\source\repos\AssociativeArraysExercise\09.ForceBook\bin\Debug\netcoreapp3.1\09.ForceBook.runtimeconfig.dev.json
+C:\Users\acer\source\repos\AssociativeArraysExercise\09.ForceBook\bin\Debug\netcoreapp3.1\09.ForceBook.dll
+C:\Users\acer\source\repos\AssociativeArraysExercise\09.ForceBook\bin\Debug\netcoreapp3.1\09.ForceBook.pdb
+C:\Users\acer\source\repos\AssociativeArraysExercise\09.ForceBook\obj\Debug\netcoreapp3.1\09.ForceBook.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\AssociativeArraysExercise\09.ForceBook\obj\Debug\netcoreapp3.1\09.ForceBook.AssemblyInfo.cs
+C:\Users\acer\source\repos\AssociativeArraysExercise\09.ForceBook\obj\Debug\netcoreapp3.1\09.ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\AssociativeArraysExercise\09.ForceBook\obj\Debug\netcoreapp3.1\09.ForceBook.dll
+C:\Users\acer\source\repos\AssociativeArraysExercise\09.ForceBook\obj\Debug\netcoreapp3.1\09.ForceBook.pdb
+C:\Users\acer\source\repos\AssociativeArraysExercise\09.ForceBook\obj\Debug\netcoreapp3.1\09.ForceBook.genruntimeconfig.cache
+C:\Users\acer\source\repos\AssociativeArraysExercise\09.ForceBook\obj\Debug\netcoreapp3.1\09.ForceBook.csprojAssemblyReference.cache

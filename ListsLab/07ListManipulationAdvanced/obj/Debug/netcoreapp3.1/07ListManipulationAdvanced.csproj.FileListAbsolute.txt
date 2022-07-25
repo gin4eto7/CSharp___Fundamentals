@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\ListsLab\07ListManipulationAdvanced\bin\Debug\netcoreapp3.1\07ListManipulationAdvanced.exe
+C:\Users\acer\source\repos\ListsLab\07ListManipulationAdvanced\bin\Debug\netcoreapp3.1\07ListManipulationAdvanced.deps.json
+C:\Users\acer\source\repos\ListsLab\07ListManipulationAdvanced\bin\Debug\netcoreapp3.1\07ListManipulationAdvanced.runtimeconfig.json
+C:\Users\acer\source\repos\ListsLab\07ListManipulationAdvanced\bin\Debug\netcoreapp3.1\07ListManipulationAdvanced.runtimeconfig.dev.json
+C:\Users\acer\source\repos\ListsLab\07ListManipulationAdvanced\bin\Debug\netcoreapp3.1\07ListManipulationAdvanced.dll
+C:\Users\acer\source\repos\ListsLab\07ListManipulationAdvanced\bin\Debug\netcoreapp3.1\07ListManipulationAdvanced.pdb
+C:\Users\acer\source\repos\ListsLab\07ListManipulationAdvanced\obj\Debug\netcoreapp3.1\07ListManipulationAdvanced.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\ListsLab\07ListManipulationAdvanced\obj\Debug\netcoreapp3.1\07ListManipulationAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\ListsLab\07ListManipulationAdvanced\obj\Debug\netcoreapp3.1\07ListManipulationAdvanced.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ListsLab\07ListManipulationAdvanced\obj\Debug\netcoreapp3.1\07ListManipulationAdvanced.AssemblyInfo.cs
+C:\Users\acer\source\repos\ListsLab\07ListManipulationAdvanced\obj\Debug\netcoreapp3.1\07ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ListsLab\07ListManipulationAdvanced\obj\Debug\netcoreapp3.1\07ListManipulationAdvanced.dll
+C:\Users\acer\source\repos\ListsLab\07ListManipulationAdvanced\obj\Debug\netcoreapp3.1\07ListManipulationAdvanced.pdb
+C:\Users\acer\source\repos\ListsLab\07ListManipulationAdvanced\obj\Debug\netcoreapp3.1\07ListManipulationAdvanced.genruntimeconfig.cache

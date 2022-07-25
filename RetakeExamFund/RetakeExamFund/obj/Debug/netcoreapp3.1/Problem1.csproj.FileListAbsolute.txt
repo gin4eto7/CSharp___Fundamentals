@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\RetakeExamFund\RetakeExamFund\bin\Debug\netcoreapp3.1\Problem1.exe
+C:\Users\acer\source\repos\RetakeExamFund\RetakeExamFund\bin\Debug\netcoreapp3.1\Problem1.deps.json
+C:\Users\acer\source\repos\RetakeExamFund\RetakeExamFund\bin\Debug\netcoreapp3.1\Problem1.runtimeconfig.json
+C:\Users\acer\source\repos\RetakeExamFund\RetakeExamFund\bin\Debug\netcoreapp3.1\Problem1.runtimeconfig.dev.json
+C:\Users\acer\source\repos\RetakeExamFund\RetakeExamFund\bin\Debug\netcoreapp3.1\Problem1.dll
+C:\Users\acer\source\repos\RetakeExamFund\RetakeExamFund\bin\Debug\netcoreapp3.1\Problem1.pdb
+C:\Users\acer\source\repos\RetakeExamFund\RetakeExamFund\obj\Debug\netcoreapp3.1\Problem1.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\RetakeExamFund\RetakeExamFund\obj\Debug\netcoreapp3.1\Problem1.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\RetakeExamFund\RetakeExamFund\obj\Debug\netcoreapp3.1\Problem1.AssemblyInfo.cs
+C:\Users\acer\source\repos\RetakeExamFund\RetakeExamFund\obj\Debug\netcoreapp3.1\Problem1.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\RetakeExamFund\RetakeExamFund\obj\Debug\netcoreapp3.1\Problem1.dll
+C:\Users\acer\source\repos\RetakeExamFund\RetakeExamFund\obj\Debug\netcoreapp3.1\Problem1.pdb
+C:\Users\acer\source\repos\RetakeExamFund\RetakeExamFund\obj\Debug\netcoreapp3.1\Problem1.genruntimeconfig.cache

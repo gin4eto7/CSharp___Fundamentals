@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\TextProcessingLab\05DigitsLettersAndOther\bin\Debug\netcoreapp3.1\05DigitsLettersAndOther.exe
+C:\Users\acer\source\repos\TextProcessingLab\05DigitsLettersAndOther\bin\Debug\netcoreapp3.1\05DigitsLettersAndOther.deps.json
+C:\Users\acer\source\repos\TextProcessingLab\05DigitsLettersAndOther\bin\Debug\netcoreapp3.1\05DigitsLettersAndOther.runtimeconfig.json
+C:\Users\acer\source\repos\TextProcessingLab\05DigitsLettersAndOther\bin\Debug\netcoreapp3.1\05DigitsLettersAndOther.runtimeconfig.dev.json
+C:\Users\acer\source\repos\TextProcessingLab\05DigitsLettersAndOther\bin\Debug\netcoreapp3.1\05DigitsLettersAndOther.dll
+C:\Users\acer\source\repos\TextProcessingLab\05DigitsLettersAndOther\bin\Debug\netcoreapp3.1\05DigitsLettersAndOther.pdb
+C:\Users\acer\source\repos\TextProcessingLab\05DigitsLettersAndOther\obj\Debug\netcoreapp3.1\05DigitsLettersAndOther.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\TextProcessingLab\05DigitsLettersAndOther\obj\Debug\netcoreapp3.1\05DigitsLettersAndOther.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\TextProcessingLab\05DigitsLettersAndOther\obj\Debug\netcoreapp3.1\05DigitsLettersAndOther.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\TextProcessingLab\05DigitsLettersAndOther\obj\Debug\netcoreapp3.1\05DigitsLettersAndOther.AssemblyInfo.cs
+C:\Users\acer\source\repos\TextProcessingLab\05DigitsLettersAndOther\obj\Debug\netcoreapp3.1\05DigitsLettersAndOther.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\TextProcessingLab\05DigitsLettersAndOther\obj\Debug\netcoreapp3.1\05DigitsLettersAndOther.dll
+C:\Users\acer\source\repos\TextProcessingLab\05DigitsLettersAndOther\obj\Debug\netcoreapp3.1\05DigitsLettersAndOther.pdb
+C:\Users\acer\source\repos\TextProcessingLab\05DigitsLettersAndOther\obj\Debug\netcoreapp3.1\05DigitsLettersAndOther.genruntimeconfig.cache

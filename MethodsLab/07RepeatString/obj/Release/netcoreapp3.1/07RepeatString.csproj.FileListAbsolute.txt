@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\MethodsLab\07RepeatString\bin\Release\netcoreapp3.1\07RepeatString.exe
+C:\Users\acer\source\repos\MethodsLab\07RepeatString\bin\Release\netcoreapp3.1\07RepeatString.deps.json
+C:\Users\acer\source\repos\MethodsLab\07RepeatString\bin\Release\netcoreapp3.1\07RepeatString.runtimeconfig.json
+C:\Users\acer\source\repos\MethodsLab\07RepeatString\bin\Release\netcoreapp3.1\07RepeatString.runtimeconfig.dev.json
+C:\Users\acer\source\repos\MethodsLab\07RepeatString\bin\Release\netcoreapp3.1\07RepeatString.dll
+C:\Users\acer\source\repos\MethodsLab\07RepeatString\bin\Release\netcoreapp3.1\07RepeatString.pdb
+C:\Users\acer\source\repos\MethodsLab\07RepeatString\obj\Release\netcoreapp3.1\07RepeatString.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\MethodsLab\07RepeatString\obj\Release\netcoreapp3.1\07RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\MethodsLab\07RepeatString\obj\Release\netcoreapp3.1\07RepeatString.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\MethodsLab\07RepeatString\obj\Release\netcoreapp3.1\07RepeatString.AssemblyInfo.cs
+C:\Users\acer\source\repos\MethodsLab\07RepeatString\obj\Release\netcoreapp3.1\07RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\MethodsLab\07RepeatString\obj\Release\netcoreapp3.1\07RepeatString.dll
+C:\Users\acer\source\repos\MethodsLab\07RepeatString\obj\Release\netcoreapp3.1\07RepeatString.pdb
+C:\Users\acer\source\repos\MethodsLab\07RepeatString\obj\Release\netcoreapp3.1\07RepeatString.genruntimeconfig.cache

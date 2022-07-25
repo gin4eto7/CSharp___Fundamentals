@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\07ConcatNames\bin\Debug\netcoreapp3.1\07ConcatNames.exe
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\07ConcatNames\bin\Debug\netcoreapp3.1\07ConcatNames.deps.json
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\07ConcatNames\bin\Debug\netcoreapp3.1\07ConcatNames.runtimeconfig.json
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\07ConcatNames\bin\Debug\netcoreapp3.1\07ConcatNames.runtimeconfig.dev.json
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\07ConcatNames\bin\Debug\netcoreapp3.1\07ConcatNames.dll
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\07ConcatNames\bin\Debug\netcoreapp3.1\07ConcatNames.pdb
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\07ConcatNames\obj\Debug\netcoreapp3.1\07ConcatNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\07ConcatNames\obj\Debug\netcoreapp3.1\07ConcatNames.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\07ConcatNames\obj\Debug\netcoreapp3.1\07ConcatNames.AssemblyInfo.cs
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\07ConcatNames\obj\Debug\netcoreapp3.1\07ConcatNames.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\07ConcatNames\obj\Debug\netcoreapp3.1\07ConcatNames.dll
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\07ConcatNames\obj\Debug\netcoreapp3.1\07ConcatNames.pdb
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\07ConcatNames\obj\Debug\netcoreapp3.1\07ConcatNames.genruntimeconfig.cache

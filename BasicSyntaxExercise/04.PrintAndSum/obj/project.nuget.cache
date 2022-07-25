@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aXVoisCzUjjRVEEtkv3Gls7WeFHc52u2b4qskyZ4pSyVG3rkUJSFXdGYBgEBQQQaghe52PN2rHtWTJCnFc9hqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acer\\source\\repos\\BasicSyntaxExercise\\04.PrintAndSum\\04.PrintAndSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

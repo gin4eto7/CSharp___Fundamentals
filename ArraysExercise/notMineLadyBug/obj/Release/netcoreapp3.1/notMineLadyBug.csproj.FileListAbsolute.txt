@@ -1,0 +1,12 @@
+C:\Users\acer\source\repos\ArraysExercise\notMineLadyBug\bin\Release\netcoreapp3.1\notMineLadyBug.exe
+C:\Users\acer\source\repos\ArraysExercise\notMineLadyBug\bin\Release\netcoreapp3.1\notMineLadyBug.deps.json
+C:\Users\acer\source\repos\ArraysExercise\notMineLadyBug\bin\Release\netcoreapp3.1\notMineLadyBug.runtimeconfig.json
+C:\Users\acer\source\repos\ArraysExercise\notMineLadyBug\bin\Release\netcoreapp3.1\notMineLadyBug.runtimeconfig.dev.json
+C:\Users\acer\source\repos\ArraysExercise\notMineLadyBug\bin\Release\netcoreapp3.1\notMineLadyBug.dll
+C:\Users\acer\source\repos\ArraysExercise\notMineLadyBug\bin\Release\netcoreapp3.1\notMineLadyBug.pdb
+C:\Users\acer\source\repos\ArraysExercise\notMineLadyBug\obj\Release\netcoreapp3.1\notMineLadyBug.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ArraysExercise\notMineLadyBug\obj\Release\netcoreapp3.1\notMineLadyBug.AssemblyInfo.cs
+C:\Users\acer\source\repos\ArraysExercise\notMineLadyBug\obj\Release\netcoreapp3.1\notMineLadyBug.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ArraysExercise\notMineLadyBug\obj\Release\netcoreapp3.1\notMineLadyBug.dll
+C:\Users\acer\source\repos\ArraysExercise\notMineLadyBug\obj\Release\netcoreapp3.1\notMineLadyBug.pdb
+C:\Users\acer\source\repos\ArraysExercise\notMineLadyBug\obj\Release\netcoreapp3.1\notMineLadyBug.genruntimeconfig.cache

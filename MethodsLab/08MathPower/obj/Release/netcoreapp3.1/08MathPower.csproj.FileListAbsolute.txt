@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\MethodsLab\08MathPower\obj\Release\netcoreapp3.1\08MathPower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\MethodsLab\08MathPower\obj\Release\netcoreapp3.1\08MathPower.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\MethodsLab\08MathPower\obj\Release\netcoreapp3.1\08MathPower.AssemblyInfo.cs
+C:\Users\acer\source\repos\MethodsLab\08MathPower\obj\Release\netcoreapp3.1\08MathPower.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\MethodsLab\08MathPower\bin\Release\netcoreapp3.1\08MathPower.exe
+C:\Users\acer\source\repos\MethodsLab\08MathPower\bin\Release\netcoreapp3.1\08MathPower.deps.json
+C:\Users\acer\source\repos\MethodsLab\08MathPower\bin\Release\netcoreapp3.1\08MathPower.runtimeconfig.json
+C:\Users\acer\source\repos\MethodsLab\08MathPower\bin\Release\netcoreapp3.1\08MathPower.runtimeconfig.dev.json
+C:\Users\acer\source\repos\MethodsLab\08MathPower\bin\Release\netcoreapp3.1\08MathPower.dll
+C:\Users\acer\source\repos\MethodsLab\08MathPower\bin\Release\netcoreapp3.1\08MathPower.pdb
+C:\Users\acer\source\repos\MethodsLab\08MathPower\obj\Release\netcoreapp3.1\08MathPower.dll
+C:\Users\acer\source\repos\MethodsLab\08MathPower\obj\Release\netcoreapp3.1\08MathPower.pdb
+C:\Users\acer\source\repos\MethodsLab\08MathPower\obj\Release\netcoreapp3.1\08MathPower.genruntimeconfig.cache

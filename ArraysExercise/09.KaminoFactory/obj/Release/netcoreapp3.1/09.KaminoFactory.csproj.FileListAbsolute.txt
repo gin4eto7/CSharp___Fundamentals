@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\ArraysExercise\09.KaminoFactory\bin\Release\netcoreapp3.1\09.KaminoFactory.exe
+C:\Users\acer\source\repos\ArraysExercise\09.KaminoFactory\bin\Release\netcoreapp3.1\09.KaminoFactory.deps.json
+C:\Users\acer\source\repos\ArraysExercise\09.KaminoFactory\bin\Release\netcoreapp3.1\09.KaminoFactory.runtimeconfig.json
+C:\Users\acer\source\repos\ArraysExercise\09.KaminoFactory\bin\Release\netcoreapp3.1\09.KaminoFactory.runtimeconfig.dev.json
+C:\Users\acer\source\repos\ArraysExercise\09.KaminoFactory\bin\Release\netcoreapp3.1\09.KaminoFactory.dll
+C:\Users\acer\source\repos\ArraysExercise\09.KaminoFactory\bin\Release\netcoreapp3.1\09.KaminoFactory.pdb
+C:\Users\acer\source\repos\ArraysExercise\09.KaminoFactory\obj\Release\netcoreapp3.1\09.KaminoFactory.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\ArraysExercise\09.KaminoFactory\obj\Release\netcoreapp3.1\09.KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ArraysExercise\09.KaminoFactory\obj\Release\netcoreapp3.1\09.KaminoFactory.AssemblyInfo.cs
+C:\Users\acer\source\repos\ArraysExercise\09.KaminoFactory\obj\Release\netcoreapp3.1\09.KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ArraysExercise\09.KaminoFactory\obj\Release\netcoreapp3.1\09.KaminoFactory.dll
+C:\Users\acer\source\repos\ArraysExercise\09.KaminoFactory\obj\Release\netcoreapp3.1\09.KaminoFactory.pdb
+C:\Users\acer\source\repos\ArraysExercise\09.KaminoFactory\obj\Release\netcoreapp3.1\09.KaminoFactory.genruntimeconfig.cache

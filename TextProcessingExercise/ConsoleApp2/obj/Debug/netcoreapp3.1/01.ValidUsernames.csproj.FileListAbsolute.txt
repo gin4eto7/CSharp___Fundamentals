@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\TextProcessingExercise\ConsoleApp2\bin\Debug\netcoreapp3.1\01.ValidUsernames.exe
+C:\Users\acer\source\repos\TextProcessingExercise\ConsoleApp2\bin\Debug\netcoreapp3.1\01.ValidUsernames.deps.json
+C:\Users\acer\source\repos\TextProcessingExercise\ConsoleApp2\bin\Debug\netcoreapp3.1\01.ValidUsernames.runtimeconfig.json
+C:\Users\acer\source\repos\TextProcessingExercise\ConsoleApp2\bin\Debug\netcoreapp3.1\01.ValidUsernames.runtimeconfig.dev.json
+C:\Users\acer\source\repos\TextProcessingExercise\ConsoleApp2\bin\Debug\netcoreapp3.1\01.ValidUsernames.dll
+C:\Users\acer\source\repos\TextProcessingExercise\ConsoleApp2\bin\Debug\netcoreapp3.1\01.ValidUsernames.pdb
+C:\Users\acer\source\repos\TextProcessingExercise\ConsoleApp2\obj\Debug\netcoreapp3.1\01.ValidUsernames.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\TextProcessingExercise\ConsoleApp2\obj\Debug\netcoreapp3.1\01.ValidUsernames.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\TextProcessingExercise\ConsoleApp2\obj\Debug\netcoreapp3.1\01.ValidUsernames.AssemblyInfo.cs
+C:\Users\acer\source\repos\TextProcessingExercise\ConsoleApp2\obj\Debug\netcoreapp3.1\01.ValidUsernames.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\TextProcessingExercise\ConsoleApp2\obj\Debug\netcoreapp3.1\01.ValidUsernames.dll
+C:\Users\acer\source\repos\TextProcessingExercise\ConsoleApp2\obj\Debug\netcoreapp3.1\01.ValidUsernames.pdb
+C:\Users\acer\source\repos\TextProcessingExercise\ConsoleApp2\obj\Debug\netcoreapp3.1\01.ValidUsernames.genruntimeconfig.cache

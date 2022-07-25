@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zefpssfOZA19PrLT7EMqgYkKMROBjOQnVxSf144qkuzJ5CZrulLZKj1xW3hlJgf5zIu/s1eEBmGf02rGsACGvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acer\\source\\repos\\BasicSyntaxExercise\\07.VendingMachine\\07.VendingMachine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

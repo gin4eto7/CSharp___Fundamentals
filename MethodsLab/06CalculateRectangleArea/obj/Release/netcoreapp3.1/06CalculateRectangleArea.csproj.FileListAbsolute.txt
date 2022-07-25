@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\MethodsLab\06CalculateRectangleArea\bin\Release\netcoreapp3.1\06CalculateRectangleArea.exe
+C:\Users\acer\source\repos\MethodsLab\06CalculateRectangleArea\bin\Release\netcoreapp3.1\06CalculateRectangleArea.deps.json
+C:\Users\acer\source\repos\MethodsLab\06CalculateRectangleArea\bin\Release\netcoreapp3.1\06CalculateRectangleArea.runtimeconfig.json
+C:\Users\acer\source\repos\MethodsLab\06CalculateRectangleArea\bin\Release\netcoreapp3.1\06CalculateRectangleArea.runtimeconfig.dev.json
+C:\Users\acer\source\repos\MethodsLab\06CalculateRectangleArea\bin\Release\netcoreapp3.1\06CalculateRectangleArea.dll
+C:\Users\acer\source\repos\MethodsLab\06CalculateRectangleArea\bin\Release\netcoreapp3.1\06CalculateRectangleArea.pdb
+C:\Users\acer\source\repos\MethodsLab\06CalculateRectangleArea\obj\Release\netcoreapp3.1\06CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\MethodsLab\06CalculateRectangleArea\obj\Release\netcoreapp3.1\06CalculateRectangleArea.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\MethodsLab\06CalculateRectangleArea\obj\Release\netcoreapp3.1\06CalculateRectangleArea.AssemblyInfo.cs
+C:\Users\acer\source\repos\MethodsLab\06CalculateRectangleArea\obj\Release\netcoreapp3.1\06CalculateRectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\MethodsLab\06CalculateRectangleArea\obj\Release\netcoreapp3.1\06CalculateRectangleArea.dll
+C:\Users\acer\source\repos\MethodsLab\06CalculateRectangleArea\obj\Release\netcoreapp3.1\06CalculateRectangleArea.pdb
+C:\Users\acer\source\repos\MethodsLab\06CalculateRectangleArea\obj\Release\netcoreapp3.1\06CalculateRectangleArea.genruntimeconfig.cache

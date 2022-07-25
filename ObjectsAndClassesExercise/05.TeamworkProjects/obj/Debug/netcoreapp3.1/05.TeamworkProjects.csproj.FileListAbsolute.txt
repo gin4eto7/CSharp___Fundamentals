@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\ObjectsAndClassesExercise\05.TeamworkProjects\bin\Debug\netcoreapp3.1\05.TeamworkProjects.exe
+C:\Users\acer\source\repos\ObjectsAndClassesExercise\05.TeamworkProjects\bin\Debug\netcoreapp3.1\05.TeamworkProjects.deps.json
+C:\Users\acer\source\repos\ObjectsAndClassesExercise\05.TeamworkProjects\bin\Debug\netcoreapp3.1\05.TeamworkProjects.runtimeconfig.json
+C:\Users\acer\source\repos\ObjectsAndClassesExercise\05.TeamworkProjects\bin\Debug\netcoreapp3.1\05.TeamworkProjects.runtimeconfig.dev.json
+C:\Users\acer\source\repos\ObjectsAndClassesExercise\05.TeamworkProjects\bin\Debug\netcoreapp3.1\05.TeamworkProjects.dll
+C:\Users\acer\source\repos\ObjectsAndClassesExercise\05.TeamworkProjects\bin\Debug\netcoreapp3.1\05.TeamworkProjects.pdb
+C:\Users\acer\source\repos\ObjectsAndClassesExercise\05.TeamworkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\ObjectsAndClassesExercise\05.TeamworkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ObjectsAndClassesExercise\05.TeamworkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.AssemblyInfo.cs
+C:\Users\acer\source\repos\ObjectsAndClassesExercise\05.TeamworkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ObjectsAndClassesExercise\05.TeamworkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.dll
+C:\Users\acer\source\repos\ObjectsAndClassesExercise\05.TeamworkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.pdb
+C:\Users\acer\source\repos\ObjectsAndClassesExercise\05.TeamworkProjects\obj\Debug\netcoreapp3.1\05.TeamworkProjects.genruntimeconfig.cache

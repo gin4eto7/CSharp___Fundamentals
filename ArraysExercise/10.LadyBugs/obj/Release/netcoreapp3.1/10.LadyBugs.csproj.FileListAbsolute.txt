@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\ArraysExercise\10.LadyBugs\bin\Release\netcoreapp3.1\10.LadyBugs.exe
+C:\Users\acer\source\repos\ArraysExercise\10.LadyBugs\bin\Release\netcoreapp3.1\10.LadyBugs.deps.json
+C:\Users\acer\source\repos\ArraysExercise\10.LadyBugs\bin\Release\netcoreapp3.1\10.LadyBugs.runtimeconfig.json
+C:\Users\acer\source\repos\ArraysExercise\10.LadyBugs\bin\Release\netcoreapp3.1\10.LadyBugs.runtimeconfig.dev.json
+C:\Users\acer\source\repos\ArraysExercise\10.LadyBugs\bin\Release\netcoreapp3.1\10.LadyBugs.dll
+C:\Users\acer\source\repos\ArraysExercise\10.LadyBugs\bin\Release\netcoreapp3.1\10.LadyBugs.pdb
+C:\Users\acer\source\repos\ArraysExercise\10.LadyBugs\obj\Release\netcoreapp3.1\10.LadyBugs.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\ArraysExercise\10.LadyBugs\obj\Release\netcoreapp3.1\10.LadyBugs.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ArraysExercise\10.LadyBugs\obj\Release\netcoreapp3.1\10.LadyBugs.AssemblyInfo.cs
+C:\Users\acer\source\repos\ArraysExercise\10.LadyBugs\obj\Release\netcoreapp3.1\10.LadyBugs.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ArraysExercise\10.LadyBugs\obj\Release\netcoreapp3.1\10.LadyBugs.dll
+C:\Users\acer\source\repos\ArraysExercise\10.LadyBugs\obj\Release\netcoreapp3.1\10.LadyBugs.pdb
+C:\Users\acer\source\repos\ArraysExercise\10.LadyBugs\obj\Release\netcoreapp3.1\10.LadyBugs.genruntimeconfig.cache

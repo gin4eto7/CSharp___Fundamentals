@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\ListsLab\04ListOfProducts\bin\Debug\netcoreapp3.1\04ListOfProducts.exe
+C:\Users\acer\source\repos\ListsLab\04ListOfProducts\bin\Debug\netcoreapp3.1\04ListOfProducts.deps.json
+C:\Users\acer\source\repos\ListsLab\04ListOfProducts\bin\Debug\netcoreapp3.1\04ListOfProducts.runtimeconfig.json
+C:\Users\acer\source\repos\ListsLab\04ListOfProducts\bin\Debug\netcoreapp3.1\04ListOfProducts.runtimeconfig.dev.json
+C:\Users\acer\source\repos\ListsLab\04ListOfProducts\bin\Debug\netcoreapp3.1\04ListOfProducts.dll
+C:\Users\acer\source\repos\ListsLab\04ListOfProducts\bin\Debug\netcoreapp3.1\04ListOfProducts.pdb
+C:\Users\acer\source\repos\ListsLab\04ListOfProducts\obj\Debug\netcoreapp3.1\04ListOfProducts.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\ListsLab\04ListOfProducts\obj\Debug\netcoreapp3.1\04ListOfProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\ListsLab\04ListOfProducts\obj\Debug\netcoreapp3.1\04ListOfProducts.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ListsLab\04ListOfProducts\obj\Debug\netcoreapp3.1\04ListOfProducts.AssemblyInfo.cs
+C:\Users\acer\source\repos\ListsLab\04ListOfProducts\obj\Debug\netcoreapp3.1\04ListOfProducts.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ListsLab\04ListOfProducts\obj\Debug\netcoreapp3.1\04ListOfProducts.dll
+C:\Users\acer\source\repos\ListsLab\04ListOfProducts\obj\Debug\netcoreapp3.1\04ListOfProducts.pdb
+C:\Users\acer\source\repos\ListsLab\04ListOfProducts\obj\Debug\netcoreapp3.1\04ListOfProducts.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\10LowerOrUppe\bin\Debug\netcoreapp3.1\10LowerOrUppe.exe
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\10LowerOrUppe\bin\Debug\netcoreapp3.1\10LowerOrUppe.deps.json
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\10LowerOrUppe\bin\Debug\netcoreapp3.1\10LowerOrUppe.runtimeconfig.json
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\10LowerOrUppe\bin\Debug\netcoreapp3.1\10LowerOrUppe.runtimeconfig.dev.json
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\10LowerOrUppe\bin\Debug\netcoreapp3.1\10LowerOrUppe.dll
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\10LowerOrUppe\bin\Debug\netcoreapp3.1\10LowerOrUppe.pdb
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\10LowerOrUppe\obj\Debug\netcoreapp3.1\10LowerOrUppe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\10LowerOrUppe\obj\Debug\netcoreapp3.1\10LowerOrUppe.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\10LowerOrUppe\obj\Debug\netcoreapp3.1\10LowerOrUppe.AssemblyInfo.cs
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\10LowerOrUppe\obj\Debug\netcoreapp3.1\10LowerOrUppe.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\10LowerOrUppe\obj\Debug\netcoreapp3.1\10LowerOrUppe.dll
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\10LowerOrUppe\obj\Debug\netcoreapp3.1\10LowerOrUppe.pdb
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\10LowerOrUppe\obj\Debug\netcoreapp3.1\10LowerOrUppe.genruntimeconfig.cache

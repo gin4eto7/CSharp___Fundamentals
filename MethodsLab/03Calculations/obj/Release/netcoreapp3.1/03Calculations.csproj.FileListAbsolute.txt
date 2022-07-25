@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\MethodsLab\03Calculations\bin\Release\netcoreapp3.1\03Calculations.exe
+C:\Users\acer\source\repos\MethodsLab\03Calculations\bin\Release\netcoreapp3.1\03Calculations.deps.json
+C:\Users\acer\source\repos\MethodsLab\03Calculations\bin\Release\netcoreapp3.1\03Calculations.runtimeconfig.json
+C:\Users\acer\source\repos\MethodsLab\03Calculations\bin\Release\netcoreapp3.1\03Calculations.runtimeconfig.dev.json
+C:\Users\acer\source\repos\MethodsLab\03Calculations\bin\Release\netcoreapp3.1\03Calculations.dll
+C:\Users\acer\source\repos\MethodsLab\03Calculations\bin\Release\netcoreapp3.1\03Calculations.pdb
+C:\Users\acer\source\repos\MethodsLab\03Calculations\obj\Release\netcoreapp3.1\03Calculations.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\MethodsLab\03Calculations\obj\Release\netcoreapp3.1\03Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\MethodsLab\03Calculations\obj\Release\netcoreapp3.1\03Calculations.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\MethodsLab\03Calculations\obj\Release\netcoreapp3.1\03Calculations.AssemblyInfo.cs
+C:\Users\acer\source\repos\MethodsLab\03Calculations\obj\Release\netcoreapp3.1\03Calculations.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\MethodsLab\03Calculations\obj\Release\netcoreapp3.1\03Calculations.dll
+C:\Users\acer\source\repos\MethodsLab\03Calculations\obj\Release\netcoreapp3.1\03Calculations.pdb
+C:\Users\acer\source\repos\MethodsLab\03Calculations\obj\Release\netcoreapp3.1\03Calculations.genruntimeconfig.cache

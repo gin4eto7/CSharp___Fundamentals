@@ -1,0 +1,12 @@
+C:\Users\acer\source\repos\Exam2\Exam2\bin\Debug\netcoreapp3.1\Exercise1.exe
+C:\Users\acer\source\repos\Exam2\Exam2\bin\Debug\netcoreapp3.1\Exercise1.deps.json
+C:\Users\acer\source\repos\Exam2\Exam2\bin\Debug\netcoreapp3.1\Exercise1.runtimeconfig.json
+C:\Users\acer\source\repos\Exam2\Exam2\bin\Debug\netcoreapp3.1\Exercise1.runtimeconfig.dev.json
+C:\Users\acer\source\repos\Exam2\Exam2\bin\Debug\netcoreapp3.1\Exercise1.dll
+C:\Users\acer\source\repos\Exam2\Exam2\bin\Debug\netcoreapp3.1\Exercise1.pdb
+C:\Users\acer\source\repos\Exam2\Exam2\obj\Debug\netcoreapp3.1\Exercise1.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\Exam2\Exam2\obj\Debug\netcoreapp3.1\Exercise1.AssemblyInfo.cs
+C:\Users\acer\source\repos\Exam2\Exam2\obj\Debug\netcoreapp3.1\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Exam2\Exam2\obj\Debug\netcoreapp3.1\Exercise1.dll
+C:\Users\acer\source\repos\Exam2\Exam2\obj\Debug\netcoreapp3.1\Exercise1.pdb
+C:\Users\acer\source\repos\Exam2\Exam2\obj\Debug\netcoreapp3.1\Exercise1.genruntimeconfig.cache

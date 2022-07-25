@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\BasicSyntaxExercise\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.exe
+C:\Users\acer\source\repos\BasicSyntaxExercise\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.deps.json
+C:\Users\acer\source\repos\BasicSyntaxExercise\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.runtimeconfig.json
+C:\Users\acer\source\repos\BasicSyntaxExercise\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.runtimeconfig.dev.json
+C:\Users\acer\source\repos\BasicSyntaxExercise\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.dll
+C:\Users\acer\source\repos\BasicSyntaxExercise\04.PrintAndSum\bin\Debug\netcoreapp3.1\04.PrintAndSum.pdb
+C:\Users\acer\source\repos\BasicSyntaxExercise\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\BasicSyntaxExercise\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\BasicSyntaxExercise\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\BasicSyntaxExercise\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.AssemblyInfo.cs
+C:\Users\acer\source\repos\BasicSyntaxExercise\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.dll
+C:\Users\acer\source\repos\BasicSyntaxExercise\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.pdb
+C:\Users\acer\source\repos\BasicSyntaxExercise\04.PrintAndSum\obj\Debug\netcoreapp3.1\04.PrintAndSum.genruntimeconfig.cache

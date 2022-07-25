@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\04BackIn30Minutes\bin\Release\netcoreapp3.1\04BackIn30Minutes.exe
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\04BackIn30Minutes\bin\Release\netcoreapp3.1\04BackIn30Minutes.deps.json
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\04BackIn30Minutes\bin\Release\netcoreapp3.1\04BackIn30Minutes.runtimeconfig.json
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\04BackIn30Minutes\bin\Release\netcoreapp3.1\04BackIn30Minutes.runtimeconfig.dev.json
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\04BackIn30Minutes\bin\Release\netcoreapp3.1\04BackIn30Minutes.dll
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\04BackIn30Minutes\bin\Release\netcoreapp3.1\04BackIn30Minutes.pdb
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\04BackIn30Minutes\obj\Release\netcoreapp3.1\04BackIn30Minutes.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\04BackIn30Minutes\obj\Release\netcoreapp3.1\04BackIn30Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\04BackIn30Minutes\obj\Release\netcoreapp3.1\04BackIn30Minutes.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\04BackIn30Minutes\obj\Release\netcoreapp3.1\04BackIn30Minutes.AssemblyInfo.cs
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\04BackIn30Minutes\obj\Release\netcoreapp3.1\04BackIn30Minutes.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\04BackIn30Minutes\obj\Release\netcoreapp3.1\04BackIn30Minutes.dll
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\04BackIn30Minutes\obj\Release\netcoreapp3.1\04BackIn30Minutes.pdb
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\04BackIn30Minutes\obj\Release\netcoreapp3.1\04BackIn30Minutes.genruntimeconfig.cache

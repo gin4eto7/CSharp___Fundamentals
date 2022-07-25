@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\07TheatrePromotion\bin\Debug\netcoreapp3.1\07TheatrePromotion.exe
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\07TheatrePromotion\bin\Debug\netcoreapp3.1\07TheatrePromotion.deps.json
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\07TheatrePromotion\bin\Debug\netcoreapp3.1\07TheatrePromotion.runtimeconfig.json
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\07TheatrePromotion\bin\Debug\netcoreapp3.1\07TheatrePromotion.runtimeconfig.dev.json
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\07TheatrePromotion\bin\Debug\netcoreapp3.1\07TheatrePromotion.dll
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\07TheatrePromotion\bin\Debug\netcoreapp3.1\07TheatrePromotion.pdb
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\07TheatrePromotion\obj\Debug\netcoreapp3.1\07TheatrePromotion.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\07TheatrePromotion\obj\Debug\netcoreapp3.1\07TheatrePromotion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\07TheatrePromotion\obj\Debug\netcoreapp3.1\07TheatrePromotion.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\07TheatrePromotion\obj\Debug\netcoreapp3.1\07TheatrePromotion.AssemblyInfo.cs
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\07TheatrePromotion\obj\Debug\netcoreapp3.1\07TheatrePromotion.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\07TheatrePromotion\obj\Debug\netcoreapp3.1\07TheatrePromotion.dll
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\07TheatrePromotion\obj\Debug\netcoreapp3.1\07TheatrePromotion.pdb
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\07TheatrePromotion\obj\Debug\netcoreapp3.1\07TheatrePromotion.genruntimeconfig.cache

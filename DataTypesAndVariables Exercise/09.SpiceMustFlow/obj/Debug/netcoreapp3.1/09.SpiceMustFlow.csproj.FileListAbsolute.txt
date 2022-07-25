@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\DataTypesAndVariables Exercise\09.SpiceMustFlow\bin\Debug\netcoreapp3.1\09.SpiceMustFlow.exe
+C:\Users\acer\source\repos\DataTypesAndVariables Exercise\09.SpiceMustFlow\bin\Debug\netcoreapp3.1\09.SpiceMustFlow.deps.json
+C:\Users\acer\source\repos\DataTypesAndVariables Exercise\09.SpiceMustFlow\bin\Debug\netcoreapp3.1\09.SpiceMustFlow.runtimeconfig.json
+C:\Users\acer\source\repos\DataTypesAndVariables Exercise\09.SpiceMustFlow\bin\Debug\netcoreapp3.1\09.SpiceMustFlow.runtimeconfig.dev.json
+C:\Users\acer\source\repos\DataTypesAndVariables Exercise\09.SpiceMustFlow\bin\Debug\netcoreapp3.1\09.SpiceMustFlow.dll
+C:\Users\acer\source\repos\DataTypesAndVariables Exercise\09.SpiceMustFlow\bin\Debug\netcoreapp3.1\09.SpiceMustFlow.pdb
+C:\Users\acer\source\repos\DataTypesAndVariables Exercise\09.SpiceMustFlow\obj\Debug\netcoreapp3.1\09.SpiceMustFlow.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\DataTypesAndVariables Exercise\09.SpiceMustFlow\obj\Debug\netcoreapp3.1\09.SpiceMustFlow.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\DataTypesAndVariables Exercise\09.SpiceMustFlow\obj\Debug\netcoreapp3.1\09.SpiceMustFlow.AssemblyInfo.cs
+C:\Users\acer\source\repos\DataTypesAndVariables Exercise\09.SpiceMustFlow\obj\Debug\netcoreapp3.1\09.SpiceMustFlow.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\DataTypesAndVariables Exercise\09.SpiceMustFlow\obj\Debug\netcoreapp3.1\09.SpiceMustFlow.dll
+C:\Users\acer\source\repos\DataTypesAndVariables Exercise\09.SpiceMustFlow\obj\Debug\netcoreapp3.1\09.SpiceMustFlow.pdb
+C:\Users\acer\source\repos\DataTypesAndVariables Exercise\09.SpiceMustFlow\obj\Debug\netcoreapp3.1\09.SpiceMustFlow.genruntimeconfig.cache

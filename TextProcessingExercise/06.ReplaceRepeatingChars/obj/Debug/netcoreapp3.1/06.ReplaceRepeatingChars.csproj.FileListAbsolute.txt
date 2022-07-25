@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\TextProcessingExercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.exe
+C:\Users\acer\source\repos\TextProcessingExercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.deps.json
+C:\Users\acer\source\repos\TextProcessingExercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.runtimeconfig.json
+C:\Users\acer\source\repos\TextProcessingExercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.runtimeconfig.dev.json
+C:\Users\acer\source\repos\TextProcessingExercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.dll
+C:\Users\acer\source\repos\TextProcessingExercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.pdb
+C:\Users\acer\source\repos\TextProcessingExercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\TextProcessingExercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.AssemblyInfo.cs
+C:\Users\acer\source\repos\TextProcessingExercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\TextProcessingExercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.dll
+C:\Users\acer\source\repos\TextProcessingExercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.pdb
+C:\Users\acer\source\repos\TextProcessingExercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.genruntimeconfig.cache
+C:\Users\acer\source\repos\TextProcessingExercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.csprojAssemblyReference.cache

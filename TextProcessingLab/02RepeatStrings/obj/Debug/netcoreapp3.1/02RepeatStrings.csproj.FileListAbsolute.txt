@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\TextProcessingLab\02RepeatStrings\bin\Debug\netcoreapp3.1\02RepeatStrings.exe
+C:\Users\acer\source\repos\TextProcessingLab\02RepeatStrings\bin\Debug\netcoreapp3.1\02RepeatStrings.deps.json
+C:\Users\acer\source\repos\TextProcessingLab\02RepeatStrings\bin\Debug\netcoreapp3.1\02RepeatStrings.runtimeconfig.json
+C:\Users\acer\source\repos\TextProcessingLab\02RepeatStrings\bin\Debug\netcoreapp3.1\02RepeatStrings.runtimeconfig.dev.json
+C:\Users\acer\source\repos\TextProcessingLab\02RepeatStrings\bin\Debug\netcoreapp3.1\02RepeatStrings.dll
+C:\Users\acer\source\repos\TextProcessingLab\02RepeatStrings\bin\Debug\netcoreapp3.1\02RepeatStrings.pdb
+C:\Users\acer\source\repos\TextProcessingLab\02RepeatStrings\obj\Debug\netcoreapp3.1\02RepeatStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\TextProcessingLab\02RepeatStrings\obj\Debug\netcoreapp3.1\02RepeatStrings.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\TextProcessingLab\02RepeatStrings\obj\Debug\netcoreapp3.1\02RepeatStrings.AssemblyInfo.cs
+C:\Users\acer\source\repos\TextProcessingLab\02RepeatStrings\obj\Debug\netcoreapp3.1\02RepeatStrings.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\TextProcessingLab\02RepeatStrings\obj\Debug\netcoreapp3.1\02RepeatStrings.dll
+C:\Users\acer\source\repos\TextProcessingLab\02RepeatStrings\obj\Debug\netcoreapp3.1\02RepeatStrings.pdb
+C:\Users\acer\source\repos\TextProcessingLab\02RepeatStrings\obj\Debug\netcoreapp3.1\02RepeatStrings.genruntimeconfig.cache

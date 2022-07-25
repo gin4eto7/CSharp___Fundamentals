@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\06ReversedChars\bin\Debug\netcoreapp3.1\06ReversedChars.exe
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\06ReversedChars\bin\Debug\netcoreapp3.1\06ReversedChars.deps.json
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\06ReversedChars\bin\Debug\netcoreapp3.1\06ReversedChars.runtimeconfig.json
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\06ReversedChars\bin\Debug\netcoreapp3.1\06ReversedChars.runtimeconfig.dev.json
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\06ReversedChars\bin\Debug\netcoreapp3.1\06ReversedChars.dll
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\06ReversedChars\bin\Debug\netcoreapp3.1\06ReversedChars.pdb
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\06ReversedChars\obj\Debug\netcoreapp3.1\06ReversedChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\06ReversedChars\obj\Debug\netcoreapp3.1\06ReversedChars.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\06ReversedChars\obj\Debug\netcoreapp3.1\06ReversedChars.AssemblyInfo.cs
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\06ReversedChars\obj\Debug\netcoreapp3.1\06ReversedChars.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\06ReversedChars\obj\Debug\netcoreapp3.1\06ReversedChars.dll
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\06ReversedChars\obj\Debug\netcoreapp3.1\06ReversedChars.pdb
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\06ReversedChars\obj\Debug\netcoreapp3.1\06ReversedChars.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\MidExam\03\bin\Debug\netcoreapp3.1\SoftUni.exe
+C:\Users\acer\source\repos\MidExam\03\bin\Debug\netcoreapp3.1\SoftUni.deps.json
+C:\Users\acer\source\repos\MidExam\03\bin\Debug\netcoreapp3.1\SoftUni.runtimeconfig.json
+C:\Users\acer\source\repos\MidExam\03\bin\Debug\netcoreapp3.1\SoftUni.runtimeconfig.dev.json
+C:\Users\acer\source\repos\MidExam\03\bin\Debug\netcoreapp3.1\SoftUni.dll
+C:\Users\acer\source\repos\MidExam\03\bin\Debug\netcoreapp3.1\SoftUni.pdb
+C:\Users\acer\source\repos\MidExam\03\obj\Debug\netcoreapp3.1\SoftUni.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\MidExam\03\obj\Debug\netcoreapp3.1\SoftUni.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\MidExam\03\obj\Debug\netcoreapp3.1\SoftUni.AssemblyInfo.cs
+C:\Users\acer\source\repos\MidExam\03\obj\Debug\netcoreapp3.1\SoftUni.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\MidExam\03\obj\Debug\netcoreapp3.1\SoftUni.dll
+C:\Users\acer\source\repos\MidExam\03\obj\Debug\netcoreapp3.1\SoftUni.pdb
+C:\Users\acer\source\repos\MidExam\03\obj\Debug\netcoreapp3.1\SoftUni.genruntimeconfig.cache

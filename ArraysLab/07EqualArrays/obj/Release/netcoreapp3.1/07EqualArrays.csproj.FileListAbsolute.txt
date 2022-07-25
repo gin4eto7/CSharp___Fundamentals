@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\ArraysLab\07EqualArrays\bin\Release\netcoreapp3.1\07EqualArrays.exe
+C:\Users\acer\source\repos\ArraysLab\07EqualArrays\bin\Release\netcoreapp3.1\07EqualArrays.deps.json
+C:\Users\acer\source\repos\ArraysLab\07EqualArrays\bin\Release\netcoreapp3.1\07EqualArrays.runtimeconfig.json
+C:\Users\acer\source\repos\ArraysLab\07EqualArrays\bin\Release\netcoreapp3.1\07EqualArrays.runtimeconfig.dev.json
+C:\Users\acer\source\repos\ArraysLab\07EqualArrays\bin\Release\netcoreapp3.1\07EqualArrays.dll
+C:\Users\acer\source\repos\ArraysLab\07EqualArrays\bin\Release\netcoreapp3.1\07EqualArrays.pdb
+C:\Users\acer\source\repos\ArraysLab\07EqualArrays\obj\Release\netcoreapp3.1\07EqualArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\ArraysLab\07EqualArrays\obj\Release\netcoreapp3.1\07EqualArrays.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ArraysLab\07EqualArrays\obj\Release\netcoreapp3.1\07EqualArrays.AssemblyInfo.cs
+C:\Users\acer\source\repos\ArraysLab\07EqualArrays\obj\Release\netcoreapp3.1\07EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ArraysLab\07EqualArrays\obj\Release\netcoreapp3.1\07EqualArrays.dll
+C:\Users\acer\source\repos\ArraysLab\07EqualArrays\obj\Release\netcoreapp3.1\07EqualArrays.pdb
+C:\Users\acer\source\repos\ArraysLab\07EqualArrays\obj\Release\netcoreapp3.1\07EqualArrays.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\RegularExpressionsLab\01MatchFullName\bin\Debug\netcoreapp3.1\01MatchFullName.exe
+C:\Users\acer\source\repos\RegularExpressionsLab\01MatchFullName\bin\Debug\netcoreapp3.1\01MatchFullName.deps.json
+C:\Users\acer\source\repos\RegularExpressionsLab\01MatchFullName\bin\Debug\netcoreapp3.1\01MatchFullName.runtimeconfig.json
+C:\Users\acer\source\repos\RegularExpressionsLab\01MatchFullName\bin\Debug\netcoreapp3.1\01MatchFullName.runtimeconfig.dev.json
+C:\Users\acer\source\repos\RegularExpressionsLab\01MatchFullName\bin\Debug\netcoreapp3.1\01MatchFullName.dll
+C:\Users\acer\source\repos\RegularExpressionsLab\01MatchFullName\bin\Debug\netcoreapp3.1\01MatchFullName.pdb
+C:\Users\acer\source\repos\RegularExpressionsLab\01MatchFullName\obj\Debug\netcoreapp3.1\01MatchFullName.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\RegularExpressionsLab\01MatchFullName\obj\Debug\netcoreapp3.1\01MatchFullName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\RegularExpressionsLab\01MatchFullName\obj\Debug\netcoreapp3.1\01MatchFullName.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\RegularExpressionsLab\01MatchFullName\obj\Debug\netcoreapp3.1\01MatchFullName.AssemblyInfo.cs
+C:\Users\acer\source\repos\RegularExpressionsLab\01MatchFullName\obj\Debug\netcoreapp3.1\01MatchFullName.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\RegularExpressionsLab\01MatchFullName\obj\Debug\netcoreapp3.1\01MatchFullName.dll
+C:\Users\acer\source\repos\RegularExpressionsLab\01MatchFullName\obj\Debug\netcoreapp3.1\01MatchFullName.pdb
+C:\Users\acer\source\repos\RegularExpressionsLab\01MatchFullName\obj\Debug\netcoreapp3.1\01MatchFullName.genruntimeconfig.cache

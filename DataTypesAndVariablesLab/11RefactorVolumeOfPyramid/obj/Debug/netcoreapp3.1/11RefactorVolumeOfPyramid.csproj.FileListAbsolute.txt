@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\11RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\11RefactorVolumeOfPyramid.exe
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\11RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\11RefactorVolumeOfPyramid.deps.json
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\11RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\11RefactorVolumeOfPyramid.runtimeconfig.json
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\11RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\11RefactorVolumeOfPyramid.runtimeconfig.dev.json
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\11RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\11RefactorVolumeOfPyramid.dll
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\11RefactorVolumeOfPyramid\bin\Debug\netcoreapp3.1\11RefactorVolumeOfPyramid.pdb
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\11RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\11RefactorVolumeOfPyramid.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\11RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\11RefactorVolumeOfPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\11RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\11RefactorVolumeOfPyramid.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\11RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\11RefactorVolumeOfPyramid.AssemblyInfo.cs
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\11RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\11RefactorVolumeOfPyramid.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\11RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\11RefactorVolumeOfPyramid.dll
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\11RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\11RefactorVolumeOfPyramid.pdb
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\11RefactorVolumeOfPyramid\obj\Debug\netcoreapp3.1\11RefactorVolumeOfPyramid.genruntimeconfig.cache

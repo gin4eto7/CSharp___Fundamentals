@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\ObjectsAndClassesLab\04Students\bin\Debug\netcoreapp3.1\04Students.exe
+C:\Users\acer\source\repos\ObjectsAndClassesLab\04Students\bin\Debug\netcoreapp3.1\04Students.deps.json
+C:\Users\acer\source\repos\ObjectsAndClassesLab\04Students\bin\Debug\netcoreapp3.1\04Students.runtimeconfig.json
+C:\Users\acer\source\repos\ObjectsAndClassesLab\04Students\bin\Debug\netcoreapp3.1\04Students.runtimeconfig.dev.json
+C:\Users\acer\source\repos\ObjectsAndClassesLab\04Students\bin\Debug\netcoreapp3.1\04Students.dll
+C:\Users\acer\source\repos\ObjectsAndClassesLab\04Students\bin\Debug\netcoreapp3.1\04Students.pdb
+C:\Users\acer\source\repos\ObjectsAndClassesLab\04Students\obj\Debug\netcoreapp3.1\04Students.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\ObjectsAndClassesLab\04Students\obj\Debug\netcoreapp3.1\04Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\ObjectsAndClassesLab\04Students\obj\Debug\netcoreapp3.1\04Students.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ObjectsAndClassesLab\04Students\obj\Debug\netcoreapp3.1\04Students.AssemblyInfo.cs
+C:\Users\acer\source\repos\ObjectsAndClassesLab\04Students\obj\Debug\netcoreapp3.1\04Students.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ObjectsAndClassesLab\04Students\obj\Debug\netcoreapp3.1\04Students.dll
+C:\Users\acer\source\repos\ObjectsAndClassesLab\04Students\obj\Debug\netcoreapp3.1\04Students.pdb
+C:\Users\acer\source\repos\ObjectsAndClassesLab\04Students\obj\Debug\netcoreapp3.1\04Students.genruntimeconfig.cache

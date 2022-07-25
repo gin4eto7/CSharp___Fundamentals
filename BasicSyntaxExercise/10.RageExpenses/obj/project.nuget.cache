@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lf5oub+MUx7jMAAl6/1PrICChia2Rdu9wT0v72vSmxp3KSg3dLZkFSVRh//uH51ldPWE0RJWTnwaNnmuCiQLYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acer\\source\\repos\\BasicSyntaxExercise\\10.RageExpenses\\10.RageExpenses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

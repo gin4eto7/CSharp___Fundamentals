@@ -1,0 +1,12 @@
+C:\Users\acer\source\repos\BasicSyntaxExercise\BasicSyntaxExercise\bin\Debug\netcoreapp3.1\01.Ages.exe
+C:\Users\acer\source\repos\BasicSyntaxExercise\BasicSyntaxExercise\bin\Debug\netcoreapp3.1\01.Ages.deps.json
+C:\Users\acer\source\repos\BasicSyntaxExercise\BasicSyntaxExercise\bin\Debug\netcoreapp3.1\01.Ages.runtimeconfig.json
+C:\Users\acer\source\repos\BasicSyntaxExercise\BasicSyntaxExercise\bin\Debug\netcoreapp3.1\01.Ages.runtimeconfig.dev.json
+C:\Users\acer\source\repos\BasicSyntaxExercise\BasicSyntaxExercise\bin\Debug\netcoreapp3.1\01.Ages.dll
+C:\Users\acer\source\repos\BasicSyntaxExercise\BasicSyntaxExercise\bin\Debug\netcoreapp3.1\01.Ages.pdb
+C:\Users\acer\source\repos\BasicSyntaxExercise\BasicSyntaxExercise\obj\Debug\netcoreapp3.1\01.Ages.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\BasicSyntaxExercise\BasicSyntaxExercise\obj\Debug\netcoreapp3.1\01.Ages.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\BasicSyntaxExercise\BasicSyntaxExercise\obj\Debug\netcoreapp3.1\01.Ages.AssemblyInfo.cs
+C:\Users\acer\source\repos\BasicSyntaxExercise\BasicSyntaxExercise\obj\Debug\netcoreapp3.1\01.Ages.dll
+C:\Users\acer\source\repos\BasicSyntaxExercise\BasicSyntaxExercise\obj\Debug\netcoreapp3.1\01.Ages.pdb
+C:\Users\acer\source\repos\BasicSyntaxExercise\BasicSyntaxExercise\obj\Debug\netcoreapp3.1\01.Ages.genruntimeconfig.cache

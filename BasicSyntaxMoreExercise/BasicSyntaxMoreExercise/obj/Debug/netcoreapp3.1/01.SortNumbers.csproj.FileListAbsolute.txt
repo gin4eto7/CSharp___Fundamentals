@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\BasicSyntaxMoreExercise\BasicSyntaxMoreExercise\bin\Debug\netcoreapp3.1\01.SortNumbers.exe
+C:\Users\acer\source\repos\BasicSyntaxMoreExercise\BasicSyntaxMoreExercise\bin\Debug\netcoreapp3.1\01.SortNumbers.deps.json
+C:\Users\acer\source\repos\BasicSyntaxMoreExercise\BasicSyntaxMoreExercise\bin\Debug\netcoreapp3.1\01.SortNumbers.runtimeconfig.json
+C:\Users\acer\source\repos\BasicSyntaxMoreExercise\BasicSyntaxMoreExercise\bin\Debug\netcoreapp3.1\01.SortNumbers.runtimeconfig.dev.json
+C:\Users\acer\source\repos\BasicSyntaxMoreExercise\BasicSyntaxMoreExercise\bin\Debug\netcoreapp3.1\01.SortNumbers.dll
+C:\Users\acer\source\repos\BasicSyntaxMoreExercise\BasicSyntaxMoreExercise\bin\Debug\netcoreapp3.1\01.SortNumbers.pdb
+C:\Users\acer\source\repos\BasicSyntaxMoreExercise\BasicSyntaxMoreExercise\obj\Debug\netcoreapp3.1\01.SortNumbers.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\BasicSyntaxMoreExercise\BasicSyntaxMoreExercise\obj\Debug\netcoreapp3.1\01.SortNumbers.AssemblyInfo.cs
+C:\Users\acer\source\repos\BasicSyntaxMoreExercise\BasicSyntaxMoreExercise\obj\Debug\netcoreapp3.1\01.SortNumbers.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\BasicSyntaxMoreExercise\BasicSyntaxMoreExercise\obj\Debug\netcoreapp3.1\01.SortNumbers.dll
+C:\Users\acer\source\repos\BasicSyntaxMoreExercise\BasicSyntaxMoreExercise\obj\Debug\netcoreapp3.1\01.SortNumbers.pdb
+C:\Users\acer\source\repos\BasicSyntaxMoreExercise\BasicSyntaxMoreExercise\obj\Debug\netcoreapp3.1\01.SortNumbers.genruntimeconfig.cache
+C:\Users\acer\source\repos\BasicSyntaxMoreExercise\BasicSyntaxMoreExercise\obj\Debug\netcoreapp3.1\01.SortNumbers.csprojAssemblyReference.cache

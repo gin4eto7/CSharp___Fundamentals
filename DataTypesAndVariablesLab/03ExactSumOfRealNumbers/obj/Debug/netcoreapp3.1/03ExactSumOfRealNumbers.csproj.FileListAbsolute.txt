@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\03ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03ExactSumOfRealNumbers.exe
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\03ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03ExactSumOfRealNumbers.deps.json
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\03ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03ExactSumOfRealNumbers.runtimeconfig.json
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\03ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03ExactSumOfRealNumbers.runtimeconfig.dev.json
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\03ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03ExactSumOfRealNumbers.dll
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\03ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03ExactSumOfRealNumbers.pdb
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\03ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03ExactSumOfRealNumbers.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\03ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03ExactSumOfRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\03ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\03ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03ExactSumOfRealNumbers.AssemblyInfo.cs
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\03ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\03ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03ExactSumOfRealNumbers.dll
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\03ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03ExactSumOfRealNumbers.pdb
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\03ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03ExactSumOfRealNumbers.genruntimeconfig.cache

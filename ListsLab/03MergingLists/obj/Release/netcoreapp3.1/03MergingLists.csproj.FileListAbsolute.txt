@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\ListsLab\03MergingLists\bin\Release\netcoreapp3.1\03MergingLists.exe
+C:\Users\acer\source\repos\ListsLab\03MergingLists\bin\Release\netcoreapp3.1\03MergingLists.deps.json
+C:\Users\acer\source\repos\ListsLab\03MergingLists\bin\Release\netcoreapp3.1\03MergingLists.runtimeconfig.json
+C:\Users\acer\source\repos\ListsLab\03MergingLists\bin\Release\netcoreapp3.1\03MergingLists.runtimeconfig.dev.json
+C:\Users\acer\source\repos\ListsLab\03MergingLists\bin\Release\netcoreapp3.1\03MergingLists.dll
+C:\Users\acer\source\repos\ListsLab\03MergingLists\bin\Release\netcoreapp3.1\03MergingLists.pdb
+C:\Users\acer\source\repos\ListsLab\03MergingLists\obj\Release\netcoreapp3.1\03MergingLists.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\ListsLab\03MergingLists\obj\Release\netcoreapp3.1\03MergingLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\ListsLab\03MergingLists\obj\Release\netcoreapp3.1\03MergingLists.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ListsLab\03MergingLists\obj\Release\netcoreapp3.1\03MergingLists.AssemblyInfo.cs
+C:\Users\acer\source\repos\ListsLab\03MergingLists\obj\Release\netcoreapp3.1\03MergingLists.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ListsLab\03MergingLists\obj\Release\netcoreapp3.1\03MergingLists.dll
+C:\Users\acer\source\repos\ListsLab\03MergingLists\obj\Release\netcoreapp3.1\03MergingLists.pdb
+C:\Users\acer\source\repos\ListsLab\03MergingLists\obj\Release\netcoreapp3.1\03MergingLists.genruntimeconfig.cache

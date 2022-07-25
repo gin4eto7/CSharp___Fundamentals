@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\ListsLab\01SumAdjacentEqualNumbers\bin\Release\netcoreapp3.1\01SumAdjacentEqualNumbers.exe
+C:\Users\acer\source\repos\ListsLab\01SumAdjacentEqualNumbers\bin\Release\netcoreapp3.1\01SumAdjacentEqualNumbers.deps.json
+C:\Users\acer\source\repos\ListsLab\01SumAdjacentEqualNumbers\bin\Release\netcoreapp3.1\01SumAdjacentEqualNumbers.runtimeconfig.json
+C:\Users\acer\source\repos\ListsLab\01SumAdjacentEqualNumbers\bin\Release\netcoreapp3.1\01SumAdjacentEqualNumbers.runtimeconfig.dev.json
+C:\Users\acer\source\repos\ListsLab\01SumAdjacentEqualNumbers\bin\Release\netcoreapp3.1\01SumAdjacentEqualNumbers.dll
+C:\Users\acer\source\repos\ListsLab\01SumAdjacentEqualNumbers\bin\Release\netcoreapp3.1\01SumAdjacentEqualNumbers.pdb
+C:\Users\acer\source\repos\ListsLab\01SumAdjacentEqualNumbers\obj\Release\netcoreapp3.1\01SumAdjacentEqualNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\ListsLab\01SumAdjacentEqualNumbers\obj\Release\netcoreapp3.1\01SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ListsLab\01SumAdjacentEqualNumbers\obj\Release\netcoreapp3.1\01SumAdjacentEqualNumbers.AssemblyInfo.cs
+C:\Users\acer\source\repos\ListsLab\01SumAdjacentEqualNumbers\obj\Release\netcoreapp3.1\01SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ListsLab\01SumAdjacentEqualNumbers\obj\Release\netcoreapp3.1\01SumAdjacentEqualNumbers.dll
+C:\Users\acer\source\repos\ListsLab\01SumAdjacentEqualNumbers\obj\Release\netcoreapp3.1\01SumAdjacentEqualNumbers.pdb
+C:\Users\acer\source\repos\ListsLab\01SumAdjacentEqualNumbers\obj\Release\netcoreapp3.1\01SumAdjacentEqualNumbers.genruntimeconfig.cache
+C:\Users\acer\source\repos\ListsLab\01SumAdjacentEqualNumbers\obj\Release\netcoreapp3.1\01SumAdjacentEqualNumbers.csproj.AssemblyReference.cache

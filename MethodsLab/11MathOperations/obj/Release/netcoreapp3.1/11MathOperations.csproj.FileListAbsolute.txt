@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\MethodsLab\11MathOperations\bin\Release\netcoreapp3.1\11MathOperations.exe
+C:\Users\acer\source\repos\MethodsLab\11MathOperations\bin\Release\netcoreapp3.1\11MathOperations.deps.json
+C:\Users\acer\source\repos\MethodsLab\11MathOperations\bin\Release\netcoreapp3.1\11MathOperations.runtimeconfig.json
+C:\Users\acer\source\repos\MethodsLab\11MathOperations\bin\Release\netcoreapp3.1\11MathOperations.runtimeconfig.dev.json
+C:\Users\acer\source\repos\MethodsLab\11MathOperations\bin\Release\netcoreapp3.1\11MathOperations.dll
+C:\Users\acer\source\repos\MethodsLab\11MathOperations\bin\Release\netcoreapp3.1\11MathOperations.pdb
+C:\Users\acer\source\repos\MethodsLab\11MathOperations\obj\Release\netcoreapp3.1\11MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\MethodsLab\11MathOperations\obj\Release\netcoreapp3.1\11MathOperations.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\MethodsLab\11MathOperations\obj\Release\netcoreapp3.1\11MathOperations.AssemblyInfo.cs
+C:\Users\acer\source\repos\MethodsLab\11MathOperations\obj\Release\netcoreapp3.1\11MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\MethodsLab\11MathOperations\obj\Release\netcoreapp3.1\11MathOperations.dll
+C:\Users\acer\source\repos\MethodsLab\11MathOperations\obj\Release\netcoreapp3.1\11MathOperations.pdb
+C:\Users\acer\source\repos\MethodsLab\11MathOperations\obj\Release\netcoreapp3.1\11MathOperations.genruntimeconfig.cache

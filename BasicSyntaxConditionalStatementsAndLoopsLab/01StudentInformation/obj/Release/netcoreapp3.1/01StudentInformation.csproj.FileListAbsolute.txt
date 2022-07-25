@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\01StudentInformation\bin\Release\netcoreapp3.1\01StudentInformation.exe
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\01StudentInformation\bin\Release\netcoreapp3.1\01StudentInformation.deps.json
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\01StudentInformation\bin\Release\netcoreapp3.1\01StudentInformation.runtimeconfig.json
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\01StudentInformation\bin\Release\netcoreapp3.1\01StudentInformation.runtimeconfig.dev.json
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\01StudentInformation\bin\Release\netcoreapp3.1\01StudentInformation.dll
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\01StudentInformation\bin\Release\netcoreapp3.1\01StudentInformation.pdb
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\01StudentInformation\obj\Release\netcoreapp3.1\01StudentInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\01StudentInformation\obj\Release\netcoreapp3.1\01StudentInformation.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\01StudentInformation\obj\Release\netcoreapp3.1\01StudentInformation.AssemblyInfo.cs
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\01StudentInformation\obj\Release\netcoreapp3.1\01StudentInformation.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\01StudentInformation\obj\Release\netcoreapp3.1\01StudentInformation.dll
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\01StudentInformation\obj\Release\netcoreapp3.1\01StudentInformation.pdb
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\01StudentInformation\obj\Release\netcoreapp3.1\01StudentInformation.genruntimeconfig.cache

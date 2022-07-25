@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\02PoundsToDollars\bin\Debug\netcoreapp3.1\02PoundsToDollars.exe
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\02PoundsToDollars\bin\Debug\netcoreapp3.1\02PoundsToDollars.deps.json
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\02PoundsToDollars\bin\Debug\netcoreapp3.1\02PoundsToDollars.runtimeconfig.json
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\02PoundsToDollars\bin\Debug\netcoreapp3.1\02PoundsToDollars.runtimeconfig.dev.json
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\02PoundsToDollars\bin\Debug\netcoreapp3.1\02PoundsToDollars.dll
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\02PoundsToDollars\bin\Debug\netcoreapp3.1\02PoundsToDollars.pdb
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\02PoundsToDollars\obj\Debug\netcoreapp3.1\02PoundsToDollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\02PoundsToDollars\obj\Debug\netcoreapp3.1\02PoundsToDollars.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\02PoundsToDollars\obj\Debug\netcoreapp3.1\02PoundsToDollars.AssemblyInfo.cs
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\02PoundsToDollars\obj\Debug\netcoreapp3.1\02PoundsToDollars.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\02PoundsToDollars\obj\Debug\netcoreapp3.1\02PoundsToDollars.dll
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\02PoundsToDollars\obj\Debug\netcoreapp3.1\02PoundsToDollars.pdb
+C:\Users\acer\source\repos\DataTypesAndVariablesLab\02PoundsToDollars\obj\Debug\netcoreapp3.1\02PoundsToDollars.genruntimeconfig.cache

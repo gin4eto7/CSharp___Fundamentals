@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\06ForeignLanguages\bin\Debug\netcoreapp3.1\06ForeignLanguages.exe
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\06ForeignLanguages\bin\Debug\netcoreapp3.1\06ForeignLanguages.deps.json
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\06ForeignLanguages\bin\Debug\netcoreapp3.1\06ForeignLanguages.runtimeconfig.json
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\06ForeignLanguages\bin\Debug\netcoreapp3.1\06ForeignLanguages.runtimeconfig.dev.json
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\06ForeignLanguages\bin\Debug\netcoreapp3.1\06ForeignLanguages.dll
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\06ForeignLanguages\bin\Debug\netcoreapp3.1\06ForeignLanguages.pdb
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\06ForeignLanguages\obj\Debug\netcoreapp3.1\06ForeignLanguages.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\06ForeignLanguages\obj\Debug\netcoreapp3.1\06ForeignLanguages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\06ForeignLanguages\obj\Debug\netcoreapp3.1\06ForeignLanguages.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\06ForeignLanguages\obj\Debug\netcoreapp3.1\06ForeignLanguages.AssemblyInfo.cs
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\06ForeignLanguages\obj\Debug\netcoreapp3.1\06ForeignLanguages.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\06ForeignLanguages\obj\Debug\netcoreapp3.1\06ForeignLanguages.dll
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\06ForeignLanguages\obj\Debug\netcoreapp3.1\06ForeignLanguages.pdb
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\06ForeignLanguages\obj\Debug\netcoreapp3.1\06ForeignLanguages.genruntimeconfig.cache

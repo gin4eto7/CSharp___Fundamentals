@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\ObjectsAndClassesLab\07VehicleCatalogue\bin\Debug\netcoreapp3.1\07VehicleCatalogue.exe
+C:\Users\acer\source\repos\ObjectsAndClassesLab\07VehicleCatalogue\bin\Debug\netcoreapp3.1\07VehicleCatalogue.deps.json
+C:\Users\acer\source\repos\ObjectsAndClassesLab\07VehicleCatalogue\bin\Debug\netcoreapp3.1\07VehicleCatalogue.runtimeconfig.json
+C:\Users\acer\source\repos\ObjectsAndClassesLab\07VehicleCatalogue\bin\Debug\netcoreapp3.1\07VehicleCatalogue.runtimeconfig.dev.json
+C:\Users\acer\source\repos\ObjectsAndClassesLab\07VehicleCatalogue\bin\Debug\netcoreapp3.1\07VehicleCatalogue.dll
+C:\Users\acer\source\repos\ObjectsAndClassesLab\07VehicleCatalogue\bin\Debug\netcoreapp3.1\07VehicleCatalogue.pdb
+C:\Users\acer\source\repos\ObjectsAndClassesLab\07VehicleCatalogue\obj\Debug\netcoreapp3.1\07VehicleCatalogue.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\ObjectsAndClassesLab\07VehicleCatalogue\obj\Debug\netcoreapp3.1\07VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\ObjectsAndClassesLab\07VehicleCatalogue\obj\Debug\netcoreapp3.1\07VehicleCatalogue.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ObjectsAndClassesLab\07VehicleCatalogue\obj\Debug\netcoreapp3.1\07VehicleCatalogue.AssemblyInfo.cs
+C:\Users\acer\source\repos\ObjectsAndClassesLab\07VehicleCatalogue\obj\Debug\netcoreapp3.1\07VehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ObjectsAndClassesLab\07VehicleCatalogue\obj\Debug\netcoreapp3.1\07VehicleCatalogue.dll
+C:\Users\acer\source\repos\ObjectsAndClassesLab\07VehicleCatalogue\obj\Debug\netcoreapp3.1\07VehicleCatalogue.pdb
+C:\Users\acer\source\repos\ObjectsAndClassesLab\07VehicleCatalogue\obj\Debug\netcoreapp3.1\07VehicleCatalogue.genruntimeconfig.cache

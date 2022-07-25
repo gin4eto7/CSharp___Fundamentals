@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\ArraysExercise\notMine\bin\Release\netcoreapp3.1\notMine.exe
+C:\Users\acer\source\repos\ArraysExercise\notMine\bin\Release\netcoreapp3.1\notMine.deps.json
+C:\Users\acer\source\repos\ArraysExercise\notMine\bin\Release\netcoreapp3.1\notMine.runtimeconfig.json
+C:\Users\acer\source\repos\ArraysExercise\notMine\bin\Release\netcoreapp3.1\notMine.runtimeconfig.dev.json
+C:\Users\acer\source\repos\ArraysExercise\notMine\bin\Release\netcoreapp3.1\notMine.dll
+C:\Users\acer\source\repos\ArraysExercise\notMine\bin\Release\netcoreapp3.1\notMine.pdb
+C:\Users\acer\source\repos\ArraysExercise\notMine\obj\Release\netcoreapp3.1\notMine.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ArraysExercise\notMine\obj\Release\netcoreapp3.1\notMine.AssemblyInfo.cs
+C:\Users\acer\source\repos\ArraysExercise\notMine\obj\Release\netcoreapp3.1\notMine.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ArraysExercise\notMine\obj\Release\netcoreapp3.1\notMine.dll
+C:\Users\acer\source\repos\ArraysExercise\notMine\obj\Release\netcoreapp3.1\notMine.pdb
+C:\Users\acer\source\repos\ArraysExercise\notMine\obj\Release\netcoreapp3.1\notMine.genruntimeconfig.cache
+C:\Users\acer\source\repos\ArraysExercise\notMine\obj\Release\netcoreapp3.1\notMine.csprojAssemblyReference.cache

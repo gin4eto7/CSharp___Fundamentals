@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\AssociativeArraysLab\01CountRealNumbers\bin\Debug\netcoreapp3.1\01CountRealNumbers.exe
+C:\Users\acer\source\repos\AssociativeArraysLab\01CountRealNumbers\bin\Debug\netcoreapp3.1\01CountRealNumbers.deps.json
+C:\Users\acer\source\repos\AssociativeArraysLab\01CountRealNumbers\bin\Debug\netcoreapp3.1\01CountRealNumbers.runtimeconfig.json
+C:\Users\acer\source\repos\AssociativeArraysLab\01CountRealNumbers\bin\Debug\netcoreapp3.1\01CountRealNumbers.runtimeconfig.dev.json
+C:\Users\acer\source\repos\AssociativeArraysLab\01CountRealNumbers\bin\Debug\netcoreapp3.1\01CountRealNumbers.dll
+C:\Users\acer\source\repos\AssociativeArraysLab\01CountRealNumbers\bin\Debug\netcoreapp3.1\01CountRealNumbers.pdb
+C:\Users\acer\source\repos\AssociativeArraysLab\01CountRealNumbers\obj\Debug\netcoreapp3.1\01CountRealNumbers.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\AssociativeArraysLab\01CountRealNumbers\obj\Debug\netcoreapp3.1\01CountRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\AssociativeArraysLab\01CountRealNumbers\obj\Debug\netcoreapp3.1\01CountRealNumbers.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\AssociativeArraysLab\01CountRealNumbers\obj\Debug\netcoreapp3.1\01CountRealNumbers.AssemblyInfo.cs
+C:\Users\acer\source\repos\AssociativeArraysLab\01CountRealNumbers\obj\Debug\netcoreapp3.1\01CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\AssociativeArraysLab\01CountRealNumbers\obj\Debug\netcoreapp3.1\01CountRealNumbers.dll
+C:\Users\acer\source\repos\AssociativeArraysLab\01CountRealNumbers\obj\Debug\netcoreapp3.1\01CountRealNumbers.pdb
+C:\Users\acer\source\repos\AssociativeArraysLab\01CountRealNumbers\obj\Debug\netcoreapp3.1\01CountRealNumbers.genruntimeconfig.cache

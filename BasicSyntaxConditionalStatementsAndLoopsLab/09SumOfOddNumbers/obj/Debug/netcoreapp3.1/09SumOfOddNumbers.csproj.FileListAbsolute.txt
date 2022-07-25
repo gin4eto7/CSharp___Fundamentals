@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\09SumOfOddNumbers\bin\Debug\netcoreapp3.1\09SumOfOddNumbers.exe
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\09SumOfOddNumbers\bin\Debug\netcoreapp3.1\09SumOfOddNumbers.deps.json
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\09SumOfOddNumbers\bin\Debug\netcoreapp3.1\09SumOfOddNumbers.runtimeconfig.json
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\09SumOfOddNumbers\bin\Debug\netcoreapp3.1\09SumOfOddNumbers.runtimeconfig.dev.json
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\09SumOfOddNumbers\bin\Debug\netcoreapp3.1\09SumOfOddNumbers.dll
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\09SumOfOddNumbers\bin\Debug\netcoreapp3.1\09SumOfOddNumbers.pdb
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\09SumOfOddNumbers\obj\Debug\netcoreapp3.1\09SumOfOddNumbers.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\09SumOfOddNumbers\obj\Debug\netcoreapp3.1\09SumOfOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\09SumOfOddNumbers\obj\Debug\netcoreapp3.1\09SumOfOddNumbers.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\09SumOfOddNumbers\obj\Debug\netcoreapp3.1\09SumOfOddNumbers.AssemblyInfo.cs
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\09SumOfOddNumbers\obj\Debug\netcoreapp3.1\09SumOfOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\09SumOfOddNumbers\obj\Debug\netcoreapp3.1\09SumOfOddNumbers.dll
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\09SumOfOddNumbers\obj\Debug\netcoreapp3.1\09SumOfOddNumbers.pdb
+C:\Users\acer\source\repos\BasicSyntaxConditionalStatementsAndLoopsLab\09SumOfOddNumbers\obj\Debug\netcoreapp3.1\09SumOfOddNumbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\MethodsLab\02Grades\bin\Release\netcoreapp3.1\02Grades.exe
+C:\Users\acer\source\repos\MethodsLab\02Grades\bin\Release\netcoreapp3.1\02Grades.deps.json
+C:\Users\acer\source\repos\MethodsLab\02Grades\bin\Release\netcoreapp3.1\02Grades.runtimeconfig.json
+C:\Users\acer\source\repos\MethodsLab\02Grades\bin\Release\netcoreapp3.1\02Grades.runtimeconfig.dev.json
+C:\Users\acer\source\repos\MethodsLab\02Grades\bin\Release\netcoreapp3.1\02Grades.dll
+C:\Users\acer\source\repos\MethodsLab\02Grades\bin\Release\netcoreapp3.1\02Grades.pdb
+C:\Users\acer\source\repos\MethodsLab\02Grades\obj\Release\netcoreapp3.1\02Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\MethodsLab\02Grades\obj\Release\netcoreapp3.1\02Grades.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\MethodsLab\02Grades\obj\Release\netcoreapp3.1\02Grades.AssemblyInfo.cs
+C:\Users\acer\source\repos\MethodsLab\02Grades\obj\Release\netcoreapp3.1\02Grades.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\MethodsLab\02Grades\obj\Release\netcoreapp3.1\02Grades.dll
+C:\Users\acer\source\repos\MethodsLab\02Grades\obj\Release\netcoreapp3.1\02Grades.pdb
+C:\Users\acer\source\repos\MethodsLab\02Grades\obj\Release\netcoreapp3.1\02Grades.genruntimeconfig.cache
